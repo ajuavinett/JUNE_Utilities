@@ -1,0 +1,198 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset
+  PUBLIC '-//NLM//DTD ARTICLE SET 2.0//EN'
+  'https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd'>
+<pmc-articleset>
+  <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="case-report" xml:lang="en" dtd-version="1.4">
+    <!--The publisher of this article does not allow downloading of the full text in XML form.-->
+    <front>
+      <journal-meta>
+        <journal-id journal-id-type="nlm-ta">J Undergrad Neurosci Educ</journal-id>
+        <journal-id journal-id-type="iso-abbrev">J Undergrad Neurosci Educ</journal-id>
+        <journal-id journal-id-type="pmc-domain-id">1910</journal-id>
+        <journal-id journal-id-type="pmc-domain">june</journal-id>
+        <journal-id journal-id-type="publisher-id">JUNE</journal-id>
+        <journal-title-group>
+          <journal-title>Journal of Undergraduate Neuroscience Education</journal-title>
+        </journal-title-group>
+        <issn pub-type="epub">1544-2896</issn>
+        <publisher>
+          <publisher-name>Faculty for Undergraduate Neuroscience</publisher-name>
+        </publisher>
+      </journal-meta>
+      <article-meta>
+        <article-id pub-id-type="pmcid">PMC7438164</article-id>
+        <article-id pub-id-type="pmcid-ver">PMC7438164.1</article-id>
+        <article-id pub-id-type="pmcaid">7438164</article-id>
+        <article-id pub-id-type="pmcaiid">7438164</article-id>
+        <article-id pub-id-type="pmid">32848522</article-id>
+        <article-id pub-id-type="publisher-id">june-18-c8</article-id>
+        <article-version article-version-type="pmc-version">1</article-version>
+        <article-categories>
+          <subj-group subj-group-type="heading">
+            <subject>Case Study</subject>
+          </subj-group>
+        </article-categories>
+        <title-group>
+          <article-title>Meningitis in College Students: Using a Case Study to Expose Introductory Neuroscience Students to Primary Scientific Literature and Applications of Neuroscience</article-title>
+        </title-group>
+        <contrib-group>
+          <contrib contrib-type="author" corresp="yes">
+            <name name-style="western">
+              <surname>Rollins</surname>
+              <given-names initials="L">Leslie</given-names>
+            </name>
+          </contrib>
+          <aff id="af1-june-18-c8">Psychology Department, Christopher Newport University, Newport News, VA 23606</aff>
+        </contrib-group>
+        <author-notes>
+          <corresp id="c1-june-18-c8">
+            Address correspondence to: Dr. Leslie Rollins, Psychology Department, 1 Avenue of the Arts, Christopher Newport University, VA 23606. Email: 
+            <email>leslie.rollins@cnu.edu</email>
+          </corresp>
+        </author-notes>
+        <pub-date pub-type="collection">
+          <season>Spring</season>
+          <year>2020</year>
+        </pub-date>
+        <pub-date pub-type="epub">
+          <day>28</day>
+          <month>6</month>
+          <year>2020</year>
+        </pub-date>
+        <volume>18</volume>
+        <issue>2</issue>
+        <issue-id pub-id-type="pmc-issue-id">363647</issue-id>
+        <fpage>C8</fpage>
+        <lpage>C11</lpage>
+        <history>
+          <date date-type="received">
+            <day>12</day>
+            <month>1</month>
+            <year>2020</year>
+          </date>
+          <date date-type="rev-recd">
+            <day>16</day>
+            <month>4</month>
+            <year>2020</year>
+          </date>
+          <date date-type="accepted">
+            <day>29</day>
+            <month>4</month>
+            <year>2020</year>
+          </date>
+        </history>
+        <pub-history>
+          <event event-type="pmc-release">
+            <date>
+              <day>28</day>
+              <month>06</month>
+              <year>2020</year>
+            </date>
+          </event>
+          <event event-type="pmc-live">
+            <date>
+              <day>25</day>
+              <month>08</month>
+              <year>2020</year>
+            </date>
+          </event>
+          <event event-type="pmc-last-change">
+            <date iso-8601-date="2020-08-27 16:56:24.703">
+              <day>27</day>
+              <month>08</month>
+              <year>2020</year>
+            </date>
+          </event>
+        </pub-history>
+        <permissions>
+          <copyright-statement>Copyright © 2020 Faculty for Undergraduate Neuroscience</copyright-statement>
+          <copyright-year>2020</copyright-year>
+        </permissions>
+        <self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="june-18-c8.pdf"/>
+        <abstract>
+          <p>
+            This case study was based on a popular press news article about Krystle Beauchamp Gridley’s experience with meningitis while in college (
+            <xref rid="b9-june-18-c8" ref-type="bibr">Miller, 2019</xref>
+            ). Students in an introductory neuroscience course read the popular press news article as well as an empirical article that identified risk factors for contracting meningococcal disease in college (
+            <xref rid="b2-june-18-c8" ref-type="bibr">Bruce et al., 2001</xref>
+            ). Students used information from the empirical article to identify Krystle’s risk factors for meningitis. Then, students evaluated their University’s policy on students receiving the meningococcal vaccine based on what they had learned. This case supports two important goals of neuroscience education, 1) exposing students to primary scientific literature early in their undergraduate education and 2) developing an understanding of the broader implications of scientific research for society. Students enjoyed learning about meningitis using the case-study method, reading the primary scientific article, and considering how scientific research can be applied to policy decisions. Further, the case was instrumental in supporting the content and process learning objectives.
+          </p>
+        </abstract>
+        <kwd-group>
+          <kwd>case study</kwd>
+          <kwd>meningitis</kwd>
+          <kwd>primary scientific literature</kwd>
+          <kwd>introductory neuroscience course</kwd>
+          <kwd>science applications</kwd>
+        </kwd-group>
+        <custom-meta-group>
+          <custom-meta>
+            <meta-name>pmc-status-qastatus</meta-name>
+            <meta-value>0</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-status-live</meta-name>
+            <meta-value>yes</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-status-embargo</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-status-released</meta-name>
+            <meta-value>yes</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-open-access</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-olf</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-manuscript</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-legally-suppressed</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-has-pdf</meta-name>
+            <meta-value>yes</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-has-supplement</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-pdf-only</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-suppress-copyright</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-is-real-version</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-is-scanned-article</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-preprint</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-in-epmc</meta-name>
+            <meta-value>yes</meta-value>
+          </custom-meta>
+        </custom-meta-group>
+      </article-meta>
+    </front>
+  </article>
+</pmc-articleset>

@@ -1,0 +1,286 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet
+  PUBLIC '-//NLM//DTD PubMedArticle, 1st January 2025//EN'
+  'https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_250101.dtd'>
+<PubmedArticleSet>
+  
+
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">39036718</PMID>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>07</Month>
+        <Day>23</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Print">1544-2896</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>20</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Season>Spring</Season>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of undergraduate neuroscience education : JUNE : a publication of FUN, Faculty for Undergraduate Neuroscience</Title>
+          <ISOAbbreviation>J Undergrad Neurosci Educ</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Lessons Learned in Developing Virtual Neuroscience Labs.</ArticleTitle>
+        <Pagination>
+          <StartPage>E32</StartPage>
+          <EndPage>E38</EndPage>
+          <MedlinePgn>E32-E38</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.59390/FCUJ4587</ELocationID>
+        <Abstract>
+          <AbstractText>The global COVID-19 pandemic has had a major impact on teaching approaches across higher education institutions. In this article, we reflect on the lessons learned designing and developing two virtual neuroscience labs and how they can positively contribute to Neuroscience teaching beyond this pandemic.</AbstractText>
+          <CopyrightInformation>Copyright © 2022 Faculty for Undergraduate Neuroscience.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Canal</LastName>
+            <ForeName>Maria M</ForeName>
+            <Initials>MM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Biology, Medicine and Health, University of Manchester, M13 9PT Manchester (UK).</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Carroll</LastName>
+            <ForeName>Jessica</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Biology, Medicine and Health, University of Manchester, M13 9PT Manchester (UK).</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhou</LastName>
+            <ForeName>Flavia</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Biology, Medicine and Health, University of Manchester, M13 9PT Manchester (UK).</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Metcalfe</LastName>
+            <ForeName>Ryan</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Biology, Medicine and Health, University of Manchester, M13 9PT Manchester (UK).</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>10</Month>
+          <Day>01</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Undergrad Neurosci Educ</MedlineTA>
+        <NlmUniqueID>101229224</NlmUniqueID>
+        <ISSNLinking>1544-2896</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">neuroscience undergraduate education</Keyword>
+        <Keyword MajorTopicYN="N">online practical teaching</Keyword>
+        <Keyword MajorTopicYN="N">virtual labs</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>2</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>25</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>30</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>10</Month>
+          <Day>1</Day>
+          <Hour>0</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>10</Month>
+          <Day>1</Day>
+          <Hour>0</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2024</Year>
+          <Month>7</Month>
+          <Day>22</Day>
+          <Hour>5</Hour>
+          <Minute>37</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pmc-release">
+          <Year>2022</Year>
+          <Month>10</Month>
+          <Day>1</Day>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">39036718</ArticleId>
+        <ArticleId IdType="pmc">PMC11256381</ArticleId>
+        <ArticleId IdType="doi">10.59390/FCUJ4587</ArticleId>
+        <ArticleId IdType="pii">june-20-e32</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Allen Institute. Lesson plans and teaching materials. Seattle, WA: The Allen Institute; 2021a.  Available at  https://alleninstitute.org/about/education-outreach/teaching-materials/</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Allen Institute. The building blocks of the brain. Seattle, WA: The Allen Institute; 2021b.  Available at  https://alleninstitute.org/about/education-outreach/building-blocks-brain/</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chiriac EH. Group work as an incentive for learning – students’ experiences of group work. Front Psychol. 2014;5:558. doi: 10.3389/fpsyg.2014.00558.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fpsyg.2014.00558</ArticleId>
+            <ArticleId IdType="pmc">PMC4046684</ArticleId>
+            <ArticleId IdType="pubmed">24926282</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Coleman SK, Smith CL. Evaluating the benefits of virtual training for bioscience students. High Educ Pedagog. 2019;4:287–299. doi: 10.1080/23752696.2019.1599689.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/23752696.2019.1599689</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chu P, Peck J, Brumberg JC. Exercises in Anatomy, Connectivity, and Morphology using Neuromorpho.org and the Allen Brain Atlas. J Undergrad Neurosci Educ. 2015;13(2):A95–A100. Available at  https://pubmed.ncbi.nlm.nih.gov/25838808/</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4380306</ArticleId>
+            <ArticleId IdType="pubmed">25838808</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Davies A, Harris D, Banks-Gatenby A, Brass A. Problem-based learning in clinical bioinformatics education: Does it help to create communities of practice? PLoS Comput Biol. 2019;15:e1006746. doi: 10.1371/journal.pcbi.1006746.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1006746</ArticleId>
+            <ArticleId IdType="pmc">PMC6597031</ArticleId>
+            <ArticleId IdType="pubmed">31246944</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Diwakar S, Kumar D, Radhamani R, Sasidharakurup H, Nizar N, Achuthan K, Nedungadi P, Raman R, Nair B. Completing education via virtual labs: implementation and deployment of remote laboratories and usage analysis in south Indian villages. Int J Online Biomed Educ. 2016;12:8–15. doi: 10.3991/ijoe.v12i03.5391.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3991/ijoe.v12i03.5391</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gilbert TL. The Allen Brain Atlas as a resource for teaching undergraduate neuroscience. J Undergrad Neurosci Educ. 2018;16:A261–A267. Available at  https://pubmed.ncbi.nlm.nih.gov/30254541/</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6153011</ArticleId>
+            <ArticleId IdType="pubmed">30254541</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grisham W, Brumberg JC, Gilbert T, Lanyon L, Williams RW, Olivo R. Teaching with Big Data: Report from the 2016 Society for Neuroscience Teaching Workshop. J Undergrad Neurosci Educ. 2017;16:A68–A76. Available at  https://pubmed.ncbi.nlm.nih.gov/29371844/</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5777841</ArticleId>
+            <ArticleId IdType="pubmed">29371844</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hatherly PA, Jordan SE, Cayless A. Interactive screen experiments: innovative virtual laboratories for distance learners. Eur J Physics. 2009;30:751–762. doi: 10.1088/0143-0807/30/4/008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1088/0143-0807/30/4/008</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ho YY, Roeser A, Law G, Johnson BR. Pandemic Teaching: Using the Allen Cell Types Database for Final Semester Projects in an Undergraduate Neurophysiology Lab Course. J Undergrad Neurosci Educ. 2021;20(1):A100–A110. Available at  https://pubmed.ncbi.nlm.nih.gov/35540944/</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC9053425</ArticleId>
+            <ArticleId IdType="pubmed">35540944</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Holmes N, Treibergs K. Supporting equity among students in group work. Times Higher Education Campus. 2022. Feb 24,  Available at  https://www.timeshighereducation.com/campus/supporting-equity-among-students-group-work.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Jenks BG. A Self-Study Tutorial using the Allen Brain Explorer and Brain Atlas to Teach Concepts of Mammalian Neuroanatomy and Brain Function. J Undergrad Neurosci Educ. 2009;8(1):A21–5. Available at  https://pubmed.ncbi.nlm.nih.gov/23493964/</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3592706</ArticleId>
+            <ArticleId IdType="pubmed">23493964</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jones N. Simulated labs are booming. Nature. 2018;562:S5–S7. doi: 10.1038/d41586-018-06831-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/d41586-018-06831-1</ArticleId>
+            <ArticleId IdType="pubmed">30283122</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Juavinett A. Learning How to Code While Analyzing an Open Access Electrophysiology Dataset. J Undergrad Neurosci Educ. 2020;19(1):A94–A104. Available at  https://pubmed.ncbi.nlm.nih.gov/33880096/</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8040835</ArticleId>
+            <ArticleId IdType="pubmed">33880096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Newman HA, Newman EA. MetaNeuron: A free neuron simulation program for teaching cellular neurophysiology. J Undergrad Neurosci Educ. 2013;12:A11–A17. Available at  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3852865/</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3852865</ArticleId>
+            <ArticleId IdType="pubmed">24319385</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ramos RL, Smith PT, Brumberg JC. Novel in silico Method for Teaching Cytoarchitecture, Cellular Diversity, and Gene Expression in the Mammalian Brain. J Undergrad Neurosci Educ. 2007;6(1):A8–A13. Available at  https://pubmed.ncbi.nlm.nih.gov/23493835/</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3592674</ArticleId>
+            <ArticleId IdType="pubmed">23493835</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ryan J, Casimo K. A course-based research experience using the Allen Brain map: From research question to poster session. J Undergrad Neurosci Educ. 2021;19:A260–A266. Available at  https://pubmed.ncbi.nlm.nih.gov/34552441/</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8437365</ArticleId>
+            <ArticleId IdType="pubmed">34552441</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sandrone S, Scott G, Anderson WJ, Musunuru K. Active learning-based STEM education for in-person and online learning. Cell. 2021;184:1409–1414. doi: 10.1016/j.cell.2021.01.045.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2021.01.045</ArticleId>
+            <ArticleId IdType="pmc">PMC8933058</ArticleId>
+            <ArticleId IdType="pubmed">33740446</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schwiening CJ. A brief historical perspective: Hodgkin and Huxley. J Physiol. 2012;590:2571–2575. doi: 10.1113/jphysiol.2012.230458.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.2012.230458</ArticleId>
+            <ArticleId IdType="pmc">PMC3424716</ArticleId>
+            <ArticleId IdType="pubmed">22787170</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Weller M, Appleby M. What are the benefits of interdisciplinary study? OpenLearn. 2021.  
+ https://www.open.edu/openlearn/education/what-are-the-benefits-interdisciplinary-study
+.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

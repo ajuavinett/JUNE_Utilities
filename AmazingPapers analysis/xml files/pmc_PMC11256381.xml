@@ -1,0 +1,223 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset
+  PUBLIC '-//NLM//DTD ARTICLE SET 2.0//EN'
+  'https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd'>
+<pmc-articleset>
+  <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xml:lang="en" article-type="other" dtd-version="1.4">
+    <!--The publisher of this article does not allow downloading of the full text in XML form.-->
+    <front>
+      <journal-meta>
+        <journal-id journal-id-type="nlm-ta">J Undergrad Neurosci Educ</journal-id>
+        <journal-id journal-id-type="iso-abbrev">J Undergrad Neurosci Educ</journal-id>
+        <journal-id journal-id-type="pmc-domain-id">1910</journal-id>
+        <journal-id journal-id-type="pmc-domain">june</journal-id>
+        <journal-id journal-id-type="publisher-id">JUNE</journal-id>
+        <journal-title-group>
+          <journal-title>Journal of Undergraduate Neuroscience Education</journal-title>
+        </journal-title-group>
+        <issn pub-type="epub">1544-2896</issn>
+        <publisher>
+          <publisher-name>Faculty for Undergraduate Neuroscience</publisher-name>
+        </publisher>
+      </journal-meta>
+      <article-meta>
+        <article-id pub-id-type="pmcid">PMC11256381</article-id>
+        <article-id pub-id-type="pmcid-ver">PMC11256381.1</article-id>
+        <article-id pub-id-type="pmcaid">11256381</article-id>
+        <article-id pub-id-type="pmcaiid">11256381</article-id>
+        <article-id pub-id-type="pmid">39036718</article-id>
+        <article-id pub-id-type="doi">10.59390/FCUJ4587</article-id>
+        <article-id pub-id-type="publisher-id">june-20-e32</article-id>
+        <article-version article-version-type="pmc-version">1</article-version>
+        <article-categories>
+          <subj-group subj-group-type="heading">
+            <subject>Opinion</subject>
+          </subj-group>
+        </article-categories>
+        <title-group>
+          <article-title>Lessons Learned in Developing Virtual Neuroscience Labs</article-title>
+        </title-group>
+        <contrib-group>
+          <contrib contrib-type="author" corresp="yes">
+            <name name-style="western">
+              <surname>Canal</surname>
+              <given-names initials="MM">Maria M.</given-names>
+            </name>
+            <xref rid="af1-june-20-e32" ref-type="aff">1</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name name-style="western">
+              <surname>Carroll</surname>
+              <given-names initials="J">Jessica</given-names>
+            </name>
+            <xref rid="af1-june-20-e32" ref-type="aff">1</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name name-style="western">
+              <surname>Zhou</surname>
+              <given-names initials="F">Flavia</given-names>
+            </name>
+            <xref rid="af1-june-20-e32" ref-type="aff">1</xref>
+          </contrib>
+          <contrib contrib-type="author">
+            <name name-style="western">
+              <surname>Metcalfe</surname>
+              <given-names initials="R">Ryan</given-names>
+            </name>
+            <xref rid="af1-june-20-e32" ref-type="aff">1</xref>
+          </contrib>
+        </contrib-group>
+        <aff id="af1-june-20-e32">
+          
+
+          <label>1</label>
+          Faculty of Biology, Medicine and Health, University of Manchester, M13 9PT Manchester (UK)
+        </aff>
+        <author-notes>
+          <corresp id="c1-june-20-e32">
+            Address correspondence to: Dr. Maria M. Canal, Faculty of Biology, Medicine and Health, University of Manchester, Stopford Building, Oxford Road, M13 9PT Manchester, UK. Email: 
+            <email>maria.canal@manchester.ac.uk</email>
+          </corresp>
+        </author-notes>
+        <pub-date pub-type="collection">
+          <season>Spring</season>
+          <year>2022</year>
+        </pub-date>
+        <pub-date pub-type="epub">
+          <day>01</day>
+          <month>10</month>
+          <year>2022</year>
+        </pub-date>
+        <volume>20</volume>
+        <issue>3</issue>
+        <issue-id pub-id-type="pmc-issue-id">467014</issue-id>
+        <fpage>E32</fpage>
+        <lpage>E38</lpage>
+        <history>
+          <date date-type="received">
+            <day>02</day>
+            <month>2</month>
+            <year>2022</year>
+          </date>
+          <date date-type="rev-recd">
+            <day>25</day>
+            <month>5</month>
+            <year>2022</year>
+          </date>
+          <date date-type="accepted">
+            <day>30</day>
+            <month>5</month>
+            <year>2022</year>
+          </date>
+        </history>
+        <pub-history>
+          <event event-type="pmc-release">
+            <date>
+              <day>01</day>
+              <month>10</month>
+              <year>2022</year>
+            </date>
+          </event>
+          <event event-type="pmc-live">
+            <date>
+              <day>19</day>
+              <month>07</month>
+              <year>2024</year>
+            </date>
+          </event>
+          <event event-type="pmc-last-change">
+            <date iso-8601-date="2024-07-22 17:25:34.400">
+              <day>22</day>
+              <month>07</month>
+              <year>2024</year>
+            </date>
+          </event>
+        </pub-history>
+        <permissions>
+          <copyright-statement>Copyright © 2022 Faculty for Undergraduate Neuroscience</copyright-statement>
+          <copyright-year>2022</copyright-year>
+        </permissions>
+        <self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="june-20-e32.pdf"/>
+        <abstract>
+          <p>The global COVID-19 pandemic has had a major impact on teaching approaches across higher education institutions. In this article, we reflect on the lessons learned designing and developing two virtual neuroscience labs and how they can positively contribute to Neuroscience teaching beyond this pandemic.</p>
+        </abstract>
+        <kwd-group>
+          <kwd>virtual labs</kwd>
+          <kwd>online practical teaching</kwd>
+          <kwd>neuroscience undergraduate education</kwd>
+        </kwd-group>
+        <funding-group>
+          <award-group>
+            <funding-source id="CS1">Inaugural Fellowship of the Institute of Teaching and Learning of the University of Manchester to MMC</funding-source>
+          </award-group>
+        </funding-group>
+        <custom-meta-group>
+          <custom-meta>
+            <meta-name>pmc-status-qastatus</meta-name>
+            <meta-value>0</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-status-live</meta-name>
+            <meta-value>yes</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-status-embargo</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-status-released</meta-name>
+            <meta-value>yes</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-open-access</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-olf</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-manuscript</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-legally-suppressed</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-has-pdf</meta-name>
+            <meta-value>yes</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-has-supplement</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-pdf-only</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-suppress-copyright</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-is-real-version</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-is-scanned-article</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-preprint</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-in-epmc</meta-name>
+            <meta-value>yes</meta-value>
+          </custom-meta>
+        </custom-meta-group>
+      </article-meta>
+    </front>
+  </article>
+</pmc-articleset>

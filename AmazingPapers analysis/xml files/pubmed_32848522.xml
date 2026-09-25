@@ -1,0 +1,220 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet
+  PUBLIC '-//NLM//DTD PubMedArticle, 1st January 2025//EN'
+  'https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_250101.dtd'>
+<PubmedArticleSet>
+  
+
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">32848522</PMID>
+      <DateRevised>
+        <Year>2020</Year>
+        <Month>09</Month>
+        <Day>28</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Print">1544-2896</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>18</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2020</Year>
+              <Season>Spring</Season>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of undergraduate neuroscience education : JUNE : a publication of FUN, Faculty for Undergraduate Neuroscience</Title>
+          <ISOAbbreviation>J Undergrad Neurosci Educ</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Meningitis in College Students: Using a Case Study to Expose Introductory Neuroscience Students to Primary Scientific Literature and Applications of Neuroscience.</ArticleTitle>
+        <Pagination>
+          <StartPage>C8</StartPage>
+          <EndPage>C11</EndPage>
+          <MedlinePgn>C8-C11</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>This case study was based on a popular press news article about Krystle Beauchamp Gridley's experience with meningitis while in college (Miller, 2019). Students in an introductory neuroscience course read the popular press news article as well as an empirical article that identified risk factors for contracting meningococcal disease in college (Bruce et al., 2001). Students used information from the empirical article to identify Krystle's risk factors for meningitis. Then, students evaluated their University's policy on students receiving the meningococcal vaccine based on what they had learned. This case supports two important goals of neuroscience education, 1) exposing students to primary scientific literature early in their undergraduate education and 2) developing an understanding of the broader implications of scientific research for society. Students enjoyed learning about meningitis using the case-study method, reading the primary scientific article, and considering how scientific research can be applied to policy decisions. Further, the case was instrumental in supporting the content and process learning objectives.</AbstractText>
+          <CopyrightInformation>Copyright © 2020 Faculty for Undergraduate Neuroscience.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Rollins</LastName>
+            <ForeName>Leslie</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Psychology Department, Christopher Newport University, Newport News, VA 23606.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D002363">Case Reports</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2020</Year>
+          <Month>06</Month>
+          <Day>28</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Undergrad Neurosci Educ</MedlineTA>
+        <NlmUniqueID>101229224</NlmUniqueID>
+        <ISSNLinking>1544-2896</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">case study</Keyword>
+        <Keyword MajorTopicYN="N">introductory neuroscience course</Keyword>
+        <Keyword MajorTopicYN="N">meningitis</Keyword>
+        <Keyword MajorTopicYN="N">primary scientific literature</Keyword>
+        <Keyword MajorTopicYN="N">science applications</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2020</Year>
+          <Month>1</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2020</Year>
+          <Month>4</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2020</Year>
+          <Month>4</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2020</Year>
+          <Month>8</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2020</Year>
+          <Month>8</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2020</Year>
+          <Month>8</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pmc-release">
+          <Year>2020</Year>
+          <Month>6</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">32848522</ArticleId>
+        <ArticleId IdType="pmc">PMC7438164</ArticleId>
+        <ArticleId IdType="pii">june-18-c8</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Brewer CA, Smith D. Vision and change in undergraduate biology education: A call to action. Washington, DC: American Association for the Advancement of Science; 2011.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bruce MH, Rosenstein NE, Caparella JM, Shutt KA, Perkins BA, Collins M. Risk factors for meningococcal disease in college students. JAMA. 2001;286(6):688–693.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11495618</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Centers for Disease Control and Prevention. Meningococcal Disease. 2019.  Available at:  https://www.cdc.gov/meningococcal/surveillance/index.html.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Coil D, Wenderoth MP, Cunningham M, Dirks C. Teaching the process of science: Faculty perceptions and an effective methodology. CBE-Life Sci Educ. 2010;9:524–535.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2995770</ArticleId>
+            <ArticleId IdType="pubmed">21123699</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cook-Snyder DR. Using case studies to promote student engagement in primary literature data analysis and evaluation. J Undergrad Neurosci Educ. 2017;16(1):C1–C6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5777846</ArticleId>
+            <ArticleId IdType="pubmed">29371850</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kozeracki CA, Carey MF, Colicelli J, Levis-Fitzgerald M. An intensive primary-literature-based teaching program directly benefits undergraduate science majors and facilitates their transition to doctoral programs. CBE-Life Sci Educ. 2006;5:340–347.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1681356</ArticleId>
+            <ArticleId IdType="pubmed">17146041</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Luthra S. For Meningitis B vaccines, climbing revenue, and plenty of skepticism. The New York Times. 2017. Sep 7,  Available at  https://www.nytimes.com/2017/09/07/business/meningitis-b-vaccines.html.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Meil WM. The use of case studies in teaching undergraduate neuroscience. J Undergrad Neurosci Educ. 2007;5:A53–A62.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3592654</ArticleId>
+            <ArticleId IdType="pubmed">23493154</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miller K. What it’s like to develop meningitis in college: ‘I couldn’t walk”. Yahoo Lifestyle. 2019. May 3,  Available at  https://www.yahoo.com/lifestyle/what-its-like-to-develop-meningitis-in-college-205551620.html?soc_src=social-sh&amp;soc_trk=ma.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mitrano DA. Two scientists share Nobel Prize for the first time! A case study developed for exploring the history of neuroanatomy. J Undergrad Neurosci Educ. 2019;17(2):C1–C5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6650256</ArticleId>
+            <ArticleId IdType="pubmed">31360133</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ogilvie JM. The mysterious case of Patient X: A case study for neuroscience students. J Undergrad Neurosci Educ. 2019;18(1):C1–C4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6973298</ArticleId>
+            <ArticleId IdType="pubmed">31983903</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Roesh LA, Frenzel K. Nora’s medulla: A problem-based learning case for neuroscience fundamentals. J Undergrad Neurosci Educ. 2016;14(2):C1–C3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4917349</ArticleId>
+            <ArticleId IdType="pubmed">27385927</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sawyer NT, Frenzel KE. Epilepsy and the action potential: Using case based instruction and primary literature in a neurobiology course. J Undergrad Neurosci Educ. 2018;16(2):C7–C10.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6057758</ArticleId>
+            <ArticleId IdType="pubmed">30057502</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scoville WB, Milner B. Loss of recent memory after bilateral hippocampal lesions. J Neurol Neurosurg Psychiatry. 1957;20:11–21.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC497229</ArticleId>
+            <ArticleId IdType="pubmed">13406589</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Smith GR. Guided literature explorations. J Coll Sci Teach. 2001;30(7):465.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Watson TD. ‘Without a key’: A classroom case study. J Undergrad Neurosci Educ. 2019;18(1):C5–C7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6973301</ArticleId>
+            <ArticleId IdType="pubmed">31983904</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

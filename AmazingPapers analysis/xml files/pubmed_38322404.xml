@@ -1,0 +1,231 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet
+  PUBLIC '-//NLM//DTD PubMedArticle, 1st January 2025//EN'
+  'https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_250101.dtd'>
+<PubmedArticleSet>
+  
+
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">38322404</PMID>
+      <DateRevised>
+        <Year>2024</Year>
+        <Month>04</Month>
+        <Day>04</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Print">1544-2896</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>22</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2023</Year>
+              <Season>Fall</Season>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of undergraduate neuroscience education : JUNE : a publication of FUN, Faculty for Undergraduate Neuroscience</Title>
+          <ISOAbbreviation>J Undergrad Neurosci Educ</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Unlocking Hidden Awareness: Repurposing fMRI to Detect Levels of Consciousness.</ArticleTitle>
+        <Pagination>
+          <StartPage>R6</StartPage>
+          <EndPage>R8</EndPage>
+          <MedlinePgn>R6-R8</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.59390/ZWBM2077</ELocationID>
+        <Abstract>
+          <AbstractText>
+            Determining the state of consciousness in patients with disorders of consciousness is a challenging task because for someone to be deemed conscious, both wakefulness and awareness are required. Awareness has traditionally been assessed by examining physical responsiveness but in 2010, Monti et al. explored how using fMRI to measure brain activity in humans could help reclassify the state of consciousness in these patients. The findings, published in 
+            <i>The New England Journal of Medicine</i>
+            , show that some brain regions are active when patients respond to an imagery or communication task. This is a seminal study because it demonstrates that patients who behaviourally appear to be in a vegetative or minimally conscious state may still have residual brain functions that would not be apparent from a clinical examination alone. Notably, it exemplified how fMRI can be repurposed as a communication tool for this subset of aware, but 'locked in', patients who appear unresponsive. From an educator's perspective, this paper is valuable because it is relevant to a broad audience, both introductory and advanced level undergraduate students. It introduces key concepts in cognitive and clinical neuroscience and encourages students to consider the connections between social issues and technology development in neuroscience. Finally, educators may use this paper to discuss and debate the nature of consciousness and the ethical implications that the use of fMRI for determining consciousness may have on medical ethics.
+          </AbstractText>
+          <CopyrightInformation>Copyright © 2023 Faculty for Undergraduate Neuroscience.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Caccamo</LastName>
+            <ForeName>Alessia</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Psychology and Neuroscience, University of St Andrews, St Andrews, UK KY16 9JP.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Nolde</LastName>
+            <ForeName>Gwyn</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Psychology and Neuroscience, University of St Andrews, St Andrews, UK KY16 9JP.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Bakir</LastName>
+            <ForeName>Halle</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Psychology and Neuroscience, University of St Andrews, St Andrews, UK KY16 9JP.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Ho</LastName>
+            <ForeName>Lauren</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Psychology and Neuroscience, University of St Andrews, St Andrews, UK KY16 9JP.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Alonso-Moreno</LastName>
+            <ForeName>Marta C</ForeName>
+            <Initials>MC</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Psychology and Neuroscience, University of St Andrews, St Andrews, UK KY16 9JP.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Wanniarachchi</LastName>
+            <ForeName>Sadali</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Psychology and Neuroscience, University of St Andrews, St Andrews, UK KY16 9JP.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2023</Year>
+          <Month>12</Month>
+          <Day>17</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Undergrad Neurosci Educ</MedlineTA>
+        <NlmUniqueID>101229224</NlmUniqueID>
+        <ISSNLinking>1544-2896</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Consciousness Disorders</Keyword>
+        <Keyword MajorTopicYN="N">Functional Neuroimaging</Keyword>
+        <Keyword MajorTopicYN="N">Persistent Vegetative State</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2023</Year>
+          <Month>9</Month>
+          <Day>1</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2023</Year>
+          <Month>9</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2023</Year>
+          <Month>9</Month>
+          <Day>30</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2024</Year>
+          <Month>2</Month>
+          <Day>7</Day>
+          <Hour>6</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2024</Year>
+          <Month>2</Month>
+          <Day>7</Day>
+          <Hour>6</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2024</Year>
+          <Month>2</Month>
+          <Day>7</Day>
+          <Hour>4</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pmc-release">
+          <Year>2023</Year>
+          <Month>12</Month>
+          <Day>17</Day>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">38322404</ArticleId>
+        <ArticleId IdType="pmc">PMC10768824</ArticleId>
+        <ArticleId IdType="doi">10.59390/ZWBM2077</ArticleId>
+        <ArticleId IdType="pii">june-22-r6</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Borgheai SB, McLinden J, Zisk AH, Hosni SI, Deligani RJ, Abtahi M, Mankodiya K, Shahriari Y. Enhancing Communication for People in Late-Stage ALS Using an fNIRS-Based BCI System. IEEE Trans Neural Syst Rehabil Eng. 2020;28(5):1198–1207. doi: 10.1109/TNSRE.2020.2980772.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TNSRE.2020.2980772</ArticleId>
+            <ArticleId IdType="pmc">PMC7288752</ArticleId>
+            <ArticleId IdType="pubmed">32175867</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Calabrò RS, Naro A. Diagnosing Disorder of Consciousness:The Opening of Pandora’s Box! Innov Clin Neurosci. 2016;13(3–4):10–11.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4911934</ArticleId>
+            <ArticleId IdType="pubmed">27354922</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Demertzi A, Sitt JD, Sarasso S, Pinxten W. Measuring states of pathological (un)consciousness:Research dimensions, clinical applications, and ethics. Neurosci Conscious. 2017;2017;(1):nix010. doi: 10.1093/nc/nix010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nc/nix010</ArticleId>
+            <ArticleId IdType="pmc">PMC6007135</ArticleId>
+            <ArticleId IdType="pubmed">30042843</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gotman J. Consciousness, absence seizures and fMRI analysis. Epilepsy Behav. 2013;28(2):304. doi: 10.1016/j.yebeh.2012.04.008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.yebeh.2012.04.008</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Monti MM, Vanhaudenhuyse A, Coleman MR, Boly M, Pickard JD, Tshibanda L, Owen AM, Laureys S. Willful modulation of brain activity in disorders of consciousness. N Engl J Med. 2010;362(7):579–589. doi: 10.1056/NEJMoa0905370.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMoa0905370</ArticleId>
+            <ArticleId IdType="pubmed">20130250</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Norton L, Graham M, Kazazian K, Gofton T, Weijer C, Debicki D, Fernandez-Espejo D, Thenayan EA, Owen AM. Use of functional magnetic resonance imaging to assess cognition and consciousness in severe Guillain-Barré syndrome. Int J Clin Health Psychol. 2023;23(2):100347. doi: 10.1016/j.ijchp.2022.100347.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ijchp.2022.100347</ArticleId>
+            <ArticleId IdType="pmc">PMC9663328</ArticleId>
+            <ArticleId IdType="pubmed">36415610</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Owen AM, Coleman MR, Boly M, Davis MH, Laureys S, Pickard JD. Detecting awareness in the vegetative state. Science. 2006;313(5792):1402. doi: 10.1126/science.1130197.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1130197</ArticleId>
+            <ArticleId IdType="pubmed">16959998</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xie Q, Ni X, Yu R, Li Y, Huang R. Chronic disorders of consciousness. Exp Ther Med. 2017;14(2):1277–1283. doi: 10.3892/etm.2017.4639.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3892/etm.2017.4639</ArticleId>
+            <ArticleId IdType="pmc">PMC5526117</ArticleId>
+            <ArticleId IdType="pubmed">28810588</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

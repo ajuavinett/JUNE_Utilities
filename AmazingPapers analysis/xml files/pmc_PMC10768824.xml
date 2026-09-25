@@ -1,0 +1,235 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset
+  PUBLIC '-//NLM//DTD ARTICLE SET 2.0//EN'
+  'https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd'>
+<pmc-articleset>
+  <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xml:lang="en" article-type="research-article" dtd-version="1.4">
+    <!--The publisher of this article does not allow downloading of the full text in XML form.-->
+    <front>
+      <journal-meta>
+        <journal-id journal-id-type="nlm-ta">J Undergrad Neurosci Educ</journal-id>
+        <journal-id journal-id-type="iso-abbrev">J Undergrad Neurosci Educ</journal-id>
+        <journal-id journal-id-type="pmc-domain-id">1910</journal-id>
+        <journal-id journal-id-type="pmc-domain">june</journal-id>
+        <journal-id journal-id-type="publisher-id">JUNE</journal-id>
+        <journal-title-group>
+          <journal-title>Journal of Undergraduate Neuroscience Education</journal-title>
+        </journal-title-group>
+        <issn pub-type="epub">1544-2896</issn>
+        <publisher>
+          <publisher-name>Faculty for Undergraduate Neuroscience</publisher-name>
+        </publisher>
+      </journal-meta>
+      <article-meta>
+        <article-id pub-id-type="pmcid">PMC10768824</article-id>
+        <article-id pub-id-type="pmcid-ver">PMC10768824.1</article-id>
+        <article-id pub-id-type="pmcaid">10768824</article-id>
+        <article-id pub-id-type="pmcaiid">10768824</article-id>
+        <article-id pub-id-type="pmid">38322404</article-id>
+        <article-id pub-id-type="doi">10.59390/ZWBM2077</article-id>
+        <article-id pub-id-type="publisher-id">june-22-r6</article-id>
+        <article-version article-version-type="pmc-version">1</article-version>
+        <article-categories>
+          <subj-group subj-group-type="heading">
+            <subject>Amazing Papers in Neuroscience</subject>
+          </subj-group>
+        </article-categories>
+        <title-group>
+          <article-title>Unlocking Hidden Awareness: Repurposing fMRI to Detect Levels of Consciousness</article-title>
+        </title-group>
+        <contrib-group>
+          <contrib contrib-type="author" equal-contrib="yes">
+            <name name-style="western">
+              <surname>Caccamo</surname>
+              <given-names initials="A">Alessia</given-names>
+            </name>
+          </contrib>
+          <contrib contrib-type="author" equal-contrib="yes">
+            <name name-style="western">
+              <surname>Nolde</surname>
+              <given-names initials="G">Gwyn</given-names>
+            </name>
+          </contrib>
+          <contrib contrib-type="author" corresp="yes" equal-contrib="yes">
+            <name name-style="western">
+              <surname>Bakir</surname>
+              <given-names initials="H">Halle</given-names>
+            </name>
+          </contrib>
+          <contrib contrib-type="author" equal-contrib="yes">
+            <name name-style="western">
+              <surname>Ho</surname>
+              <given-names initials="L">Lauren</given-names>
+            </name>
+          </contrib>
+          <contrib contrib-type="author" equal-contrib="yes">
+            <name name-style="western">
+              <surname>Alonso-Moreno</surname>
+              <given-names initials="MC">Marta C</given-names>
+            </name>
+          </contrib>
+          <contrib contrib-type="author" equal-contrib="yes">
+            <name name-style="western">
+              <surname>Wanniarachchi</surname>
+              <given-names initials="S">Sadali</given-names>
+            </name>
+          </contrib>
+          <aff id="af1-june-22-r6">School of Psychology and Neuroscience, University of St Andrews, St Andrews, UK KY16 9JP</aff>
+        </contrib-group>
+        <author-notes>
+          <corresp id="c1-june-22-r6">
+            Address correspondence to: Dr. Stefan Pulver School of Psychology and Neuroscience, University of St Andrews, St Andrews, UK KY16 9JP. Email: 
+            <email>sp96@st-andrews.ac.uk</email>
+            , Halle Bakir School of Psychology and Neuroscience, University of St Andrews, St Andrews, UK KY16 9JP. Email: 
+            <email>halleb100@gmail.com</email>
+          </corresp>
+          <fn id="fn1-june-22-r6">
+            <p>All authors contributed equally to this manuscript</p>
+          </fn>
+        </author-notes>
+        <pub-date pub-type="collection">
+          <season>Fall</season>
+          <year>2023</year>
+        </pub-date>
+        <pub-date pub-type="epub">
+          <day>17</day>
+          <month>12</month>
+          <year>2023</year>
+        </pub-date>
+        <volume>22</volume>
+        <issue>1</issue>
+        <issue-id pub-id-type="pmc-issue-id">452653</issue-id>
+        <fpage>R6</fpage>
+        <lpage>R8</lpage>
+        <history>
+          <date date-type="received">
+            <day>01</day>
+            <month>9</month>
+            <year>2023</year>
+          </date>
+          <date date-type="rev-recd">
+            <day>20</day>
+            <month>9</month>
+            <year>2023</year>
+          </date>
+          <date date-type="accepted">
+            <day>30</day>
+            <month>9</month>
+            <year>2023</year>
+          </date>
+        </history>
+        <pub-history>
+          <event event-type="pmc-release">
+            <date>
+              <day>17</day>
+              <month>12</month>
+              <year>2023</year>
+            </date>
+          </event>
+          <event event-type="pmc-live">
+            <date>
+              <day>06</day>
+              <month>02</month>
+              <year>2024</year>
+            </date>
+          </event>
+          <event event-type="pmc-last-change">
+            <date iso-8601-date="2024-04-03 19:25:12.017">
+              <day>03</day>
+              <month>04</month>
+              <year>2024</year>
+            </date>
+          </event>
+        </pub-history>
+        <permissions>
+          <copyright-statement>Copyright © 2023 Faculty for Undergraduate Neuroscience</copyright-statement>
+          <copyright-year>2023</copyright-year>
+        </permissions>
+        <self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="june-22-r6.pdf"/>
+        <abstract>
+          <p>
+            Determining the state of consciousness in patients with disorders of consciousness is a challenging task because for someone to be deemed conscious, both wakefulness and awareness are required. Awareness has traditionally been assessed by examining physical responsiveness but in 2010, Monti et al. explored how using fMRI to measure brain activity in humans could help reclassify the state of consciousness in these patients. The findings, published in 
+            <italic toggle="yes">The New England Journal of Medicine</italic>
+            , show that some brain regions are active when patients respond to an imagery or communication task. This is a seminal study because it demonstrates that patients who behaviourally appear to be in a vegetative or minimally conscious state may still have residual brain functions that would not be apparent from a clinical examination alone. Notably, it exemplified how fMRI can be repurposed as a communication tool for this subset of aware, but ‘locked in’, patients who appear unresponsive. From an educator’s perspective, this paper is valuable because it is relevant to a broad audience, both introductory and advanced level undergraduate students. It introduces key concepts in cognitive and clinical neuroscience and encourages students to consider the connections between social issues and technology development in neuroscience. Finally, educators may use this paper to discuss and debate the nature of consciousness and the ethical implications that the use of fMRI for determining consciousness may have on medical ethics.
+          </p>
+        </abstract>
+        <kwd-group>
+          <kwd>Consciousness Disorders</kwd>
+          <kwd>Persistent Vegetative State</kwd>
+          <kwd>Functional Neuroimaging</kwd>
+        </kwd-group>
+        <funding-group>
+          <award-group>
+            <funding-source id="CS1">University of St. Andrews MRes Neuroscience program</funding-source>
+          </award-group>
+        </funding-group>
+        <custom-meta-group>
+          <custom-meta>
+            <meta-name>pmc-status-qastatus</meta-name>
+            <meta-value>0</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-status-live</meta-name>
+            <meta-value>yes</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-status-embargo</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-status-released</meta-name>
+            <meta-value>yes</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-open-access</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-olf</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-manuscript</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-legally-suppressed</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-has-pdf</meta-name>
+            <meta-value>yes</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-has-supplement</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-pdf-only</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-suppress-copyright</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-is-real-version</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-is-scanned-article</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-preprint</meta-name>
+            <meta-value>no</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>pmc-prop-in-epmc</meta-name>
+            <meta-value>yes</meta-value>
+          </custom-meta>
+        </custom-meta-group>
+      </article-meta>
+    </front>
+  </article>
+</pmc-articleset>
