@@ -8,10 +8,6 @@ move it to **Decisions** with the date and the answer.
 1. **Is 20(3) a workshop issue?** It doesn't look like one: its editorials are
    the 20th-anniversary editor-in-chief piece and opinion pieces, not a
    proceedings introduction. Leaning no.
-2. **Do other FUN workshop writeups count?** A few articles describe FUN workshops
-   but aren't in a proceedings issue, e.g. 5(2) "IFEL TOUR: … Introduction to FUN
-   Electrophysiology Labs Workshop at Bowdoin College". Count them as workshop
-   articles, or only the proceedings issues?
 3. **What counts as an "article" in the per-volume counts?** Research and
    teaching articles only, or also editorials, media reviews, interviews,
    and case studies? (We can report each type separately either way.)
@@ -91,3 +87,8 @@ move it to **Decisions** with the date and the answer.
   Undergraduate" (AE Stuart, E12–13).** It's in PubMed (PMID 23495312) but
   listed on funjournal.org without a link, so it's added by hand through
   `EXTRA_ITEMS` in `01_build_inventory.ipynb`.
+- **2026-09-27 — Only proceedings issues count as FUN workshop items.**
+  5(2) "IFEL TOUR: A Description of the Introduction to FUN Electrophysiology
+  Labs Workshop at Bowdoin College…" describes a FUN workshop but is *not* a
+  workshop paper. Other articles that describe FUN workshops outside the
+  proceedings issues are treated the same way.
