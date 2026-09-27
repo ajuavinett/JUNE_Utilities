@@ -29,6 +29,18 @@ move it to **Decisions** with the date and the answer.
    perspectives. Are any of these, or any regular articles in those issues,
    *not* workshop items? To review, filter `data/june_inventory.csv` on
    `is_fun_workshop`.
+7. **How exactly should "first 5 years" be defined?** Notebook 03 currently
+   counts citing papers published in the item's publication year or the 4
+   years after (e.g., 2010–2014 for a 2010 item), and leaves the count blank
+   for items published in 2022 or later. Alternatives: the 5 years *after*
+   publication (2011–2015), or 60 months from the exact publication date.
+   (The length of the window is `YEARS_AFTER_PUBLICATION` in the notebook's
+   Settings cell; the other options need a small code change.)
+8. **Which citation source do we report?** OpenAlex (counts citations from
+   all kinds of scholarly works, including books, theses, and preprints) is
+   the main count. NIH iCite (only papers in PubMed) is recorded as a
+   cross-check; the two rank items very similarly (rank correlation 0.94).
+   Report OpenAlex only, or both?
 
 ## Notes for the journal (not decisions for us)
 

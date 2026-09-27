@@ -13,8 +13,8 @@ The workflow is a series of numbered notebooks. Run them in order; each one read
 |---|---|---|
 | `01_build_inventory.ipynb` | Lists every JUNE item from funjournal.org (2002–Spring 2025) and CrossRef (Scholastica, Fall 2025 on) | `data/june_inventory.csv` |
 | `02_match_pubmed.ipynb` | Matches each item to PubMed; adds PubMed IDs, page numbers, abstracts, keywords, and CrossRef-checked DOIs. Hand corrections go in `manual_fixes.csv`. | `data/june_matched.csv`, `data/needs_review.csv` (the one file to review) |
-| `03_citations.ipynb` *(next)* | Total citations and citations in the first 5 years (OpenAlex, iCite) | |
-| `04_topics.ipynb` *(planned)* | Topics from keywords, titles, and abstracts | |
+| `03_citations.ipynb` | Total citations and citations in the first 5 years (OpenAlex, with NIH iCite as a cross-check) | `data/june_citations.csv` |
+| `04_topics.ipynb` *(next)* | Topics from keywords, titles, and abstracts | |
 | `05_figures.ipynb` *(planned)* | Figures and tables for the manuscript | |
 
 Questions still to settle, and decisions already made, are in [OPEN_QUESTIONS.md](OPEN_QUESTIONS.md).
