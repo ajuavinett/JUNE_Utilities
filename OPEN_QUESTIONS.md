@@ -18,6 +18,10 @@ move it to **Decisions** with the date and the answer.
    The Editorials section also holds items that aren't scholarship, such
    as award announcements, "Call for JUNE Editorial Board Members", and
    SfN meeting reports.
+4. **Should workshop articles appear in the top-cited list?** Several 11(1)
+   workshop papers (2012) are among the most-cited JUNE papers overall.
+5. **Media reviews not indexed in PubMed:** most have no abstract. Include them
+   in the topic analysis using the title only, or leave them out?
 6. **Which items in the workshop issues count as workshop items?** Right now
    every item in those issues is tagged (128 items across 6 issues). That
    includes proceedings introductions, award pieces such as "The 2014 FUN
@@ -28,13 +32,15 @@ move it to **Decisions** with the date and the answer.
 
 ## Notes for the journal (not decisions for us)
 
-- **funjournal.org link error in 20(2):** "Convening the Undergraduate
-  Neuroscience Education Community in a Period of Rapid Change" links to the
-  E21 introduction's page and PDF instead of its own (E25–E28, per PubMed).
-4. **Should workshop articles appear in the top-cited list?** Several 11(1)
-   workshop papers (2012) are among the most-cited JUNE papers overall.
-5. **Media reviews not indexed in PubMed:** most have no abstract. Include them
-   in the topic analysis using the title only, or leave them out?
+- **Wrong DOIs in PubMed** (the publisher can ask NLM to correct them):
+  - 22(1) "A Versatile Semester-Long Course-Based Undergraduate Research
+    Experience…" is listed with 10.59390/XZQL5300; correct is 10.59390/MEDI5423
+  - 22(1) "PopScience: Teaching Students to Communicate Scientific Findings…"
+    is listed with 10.59390/KCBV9244; correct is 10.59390/KYOE5906
+- **Wrong pages in PubMed:** 21(2) "Comparing Student Performance in Emergency
+  Remote and Face-to-Face Collaborative Learning Courses" (PMID 37588654) is
+  listed as A126–A125; the website shows A117–A125. (Corrected for our
+  analysis in `manual_fixes.csv`.)
 
 ## Decisions
 
@@ -50,3 +56,7 @@ move it to **Decisions** with the date and the answer.
 - **2026-09-25 — Two citation counts per article:** total citations, and
   citations in the first 5 years after publication. Articles younger than
   5 years get a blank 5-year count, not a low one.
+- **2026-09-27 — Include 5(2) "The Society for Neuroscience and the
+  Undergraduate" (AE Stuart, E12–13).** It's in PubMed (PMID 23495312) but
+  listed on funjournal.org without a link, so it's added by hand through
+  `EXTRA_ITEMS` in `01_build_inventory.ipynb`.
