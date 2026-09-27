@@ -41,6 +41,21 @@ move it to **Decisions** with the date and the answer.
    the main count. NIH iCite (only papers in PubMed) is recorded as a
    cross-check; the two rank items very similarly (rank correlation 0.94).
    Report OpenAlex only, or both?
+9. **Name the topic groups.** `04_topics.ipynb` found 15 groups of articles
+   by their words; the computer doesn't name them. Read the top words and
+   example titles in `data/topic_words.csv` and agree on a short name for
+   each, then put them in `TOPIC_NAMES` in the notebook's Settings cell.
+   Topic 10 ("science, interdisciplinary, curriculum…") looks like a
+   catch-all; decide whether to report it as "general/curriculum".
+10. **Are these the right eras?** Notebook 04 uses five-volume eras
+    (1–5, 6–10, 11–15, 16–20, 21–24). Other options: by decade, or around
+    events such as the move to Scholastica or the pandemic.
+11. **Automatic groups, or a hand-built list of topics?** The automatic
+    groups are a good way to *discover* themes. For the manuscript, we could
+    instead define our own list of topics (e.g., "active learning",
+    "CUREs", "DEI") with the words that signal each, and count articles
+    per topic. That's easier to explain and defend, but takes more of our
+    time.
 
 ## Notes for the journal (not decisions for us)
 
