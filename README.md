@@ -15,6 +15,6 @@ The workflow is a series of numbered notebooks. Run them in order; each one read
 | `02_match_pubmed.ipynb` | Matches each item to PubMed; adds PubMed IDs, page numbers, abstracts, keywords, and CrossRef-checked DOIs. Hand corrections go in `manual_fixes.csv`. | `data/june_matched.csv`, `data/needs_review.csv` (the one file to review) |
 | `03_citations.ipynb` | Total citations and citations in the first 5 years (OpenAlex, with NIH iCite as a cross-check) | `data/june_citations.csv` |
 | `04_topics.ipynb` | Keyword counts and automatic topic groups (from titles, keywords, and abstracts), by era | `data/june_topics.csv`, `data/topic_words.csv`, `data/keyword_counts.csv` |
-| `05_figures.ipynb` *(next)* | Figures and tables for the manuscript | |
+| `05_figures.ipynb` | Figures and tables for the manuscript; choices still under discussion are settings | `figures/` (PNG + PDF), `tables/` (CSV) |
 
 Questions still to settle, and decisions already made, are in [OPEN_QUESTIONS.md](OPEN_QUESTIONS.md).

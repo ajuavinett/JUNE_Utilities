@@ -64,6 +64,10 @@ move it to **Decisions** with the date and the answer.
     Experience…" is listed with 10.59390/XZQL5300; correct is 10.59390/MEDI5423
   - 22(1) "PopScience: Teaching Students to Communicate Scientific Findings…"
     is listed with 10.59390/KCBV9244; correct is 10.59390/KYOE5906
+- **Title typo on the funjournal.org 20(2) issue page:** "Why Students Cheat
+  and How Understanding This Can H Reduce…" should read "Can Help Reduce"
+  (the article's own page is correct). Corrected for our analysis in
+  `manual_fixes.csv`.
 - **Wrong pages in PubMed:** 21(2) "Comparing Student Performance in Emergency
   Remote and Face-to-Face Collaborative Learning Courses" (PMID 37588654) is
   listed as A126–A125; the website shows A117–A125. (Corrected for our
