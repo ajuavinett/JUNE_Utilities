@@ -1,0 +1,6 @@
+# Downloaded web pages (re-created automatically when the notebook runs)
+cache/
+.DS_Store
+
+# Keep the step-to-step CSVs in the repo (overrides the global *.csv ignore)
+!*.csv
