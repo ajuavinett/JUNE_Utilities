@@ -1,21 +1,21 @@
-﻿rank,title,first_author,year_label,volume(issue),item_type,FUN workshop,citations_total,citations_first_5_years
-1,Opinion: Science Communication to the General Public: Why We Need to Teach Undergraduate and Graduate Students this Skill as Part of Their Formal Scientific Training,Brownell,2013,12(1),editorial,,414,52
-2,Retention of Underrepresented Minority Faculty: Strategic Initiatives for Institutional Value Proposition Based on Perspectives from a Range of Academic Institutions,Joseph,2015,13(3),article,yes,157,35
-3,Using ImageJ to Assess Neurite Outgrowth in Mammalian Cell Cultures: Research Data Quantification Exercises in Undergraduate Neuroscience Lab,Pemberton,2018,16(2),article,,60,34
-4,Classroom Activities: Simple Strategies to Incorporate Student-Centered Activities within Undergraduate Science Lectures,Lom,2012,11(1),article,yes,106,31
-5,The New Blueprints: Undergraduate Neuroscience Education in the Twenty-First Century,Wiertelak,2018,16(3),article,yes,37,26
-6,A Discussion of Diversity and Inclusivity at the Institutional Level: The Need For a Strategic Plan,Martinez,2018,16(3),article,yes,47,26
-7,Integrating Research into the Undergraduate Curriculum: 2. Scaffolding Research Skills and Transitioning toward Independent Research,Morrison,2020,19(1),article,,26,21
-8,Integrating Research into the Undergraduate Curriculum: 1. Early Research Experiences and Training,Buffalari,2020,19(1),article,,22,20
-9,Complementing Neurophysiology Education for Developing Countries via Cost-Effective Virtual Labs: Case Studies and Classroom Scenarios,Diwakar,2014,12(2),article,,35,20
-10,“Social” Neuroscience: Leveraging Social Media to Increase Student Engagement and Public Understanding of Neuroscience,Valentine,2016,15(1),article,,22,20
-11,On the Application of Multivariate Statistical and Data Mining Analyses to Data in Neuroscience,Smith,2018,16(2),review,,20,19
-12,"Motivation, Belongingness, and Anxiety in Neuroscience Undergraduates: Emphasizing First Generation College Students",Gaudier-Diaz,2019,17(2),article,,27,19
-13,Building an Inclusive Classroom,Penner,2018,16(3),article,yes,25,18
-14,Learning How to Code While Analyzing an Open Access Electrophysiology Dataset,Juavinett,2020,19(1),article,,20,18
-15,Column Chromatography Analysis of Brain Tissue: An Advanced Laboratory Exercise for Neuroscience Majors,Church,2005,3(2),article,,46,16
-16,The Allen Brain Atlas as a Resource for Teaching Undergraduate Neuroscience,Gilbert,2018,16(3),article,yes,22,15
-17,An Effective Model for Engaging Faculty and Undergraduate Students in Neuroscience Outreach with Middle Schoolers,Vollbrecht,2019,17(2),article,,18,15
-18,Undergraduate Biocuration: Developing Tomorrow’s Researchers While Mining Today’s Data,Cassie,2015,14(1),article,,32,15
-19,Quantitative Indicators of Continued Growth in Undergraduate Neuroscience Education in the US,Rochon,2019,18(1),article,,24,15
-20,Undergraduate Neuroscience Education in the U.S.: Quantitative Comparisons of Programs and Graduates in the Broader Context of Undergraduate Life Sciences Education,Ramos,2016,15(1),article,,25,14
+﻿rank,title,first_author,year_label,volume(issue),item_type,FUN workshop,citations_total,citations_first_5_years,url
+1,Opinion: Science Communication to the General Public: Why We Need to Teach Undergraduate and Graduate Students this Skill as Part of Their Formal Scientific Training,Brownell,2013,12(1),editorial,,414,52,https://www.funjournal.org/wp-content/uploads/2015/09/june-12-e6.pdf
+2,Retention of Underrepresented Minority Faculty: Strategic Initiatives for Institutional Value Proposition Based on Perspectives from a Range of Academic Institutions,Joseph,2015,13(3),article,yes,157,35,https://www.funjournal.org/wp-content/uploads/2015/09/june-13-136.pdf
+3,Using ImageJ to Assess Neurite Outgrowth in Mammalian Cell Cultures: Research Data Quantification Exercises in Undergraduate Neuroscience Lab,Pemberton,2018,16(2),article,,60,34,https://www.funjournal.org/wp-content/uploads/2018/06/june-16-186.pdf
+4,Classroom Activities: Simple Strategies to Incorporate Student-Centered Activities within Undergraduate Science Lectures,Lom,2012,11(1),article,yes,106,31,https://www.funjournal.org/wp-content/uploads/2015/09/lom-_-11_1_a64_a71.pdf
+5,The New Blueprints: Undergraduate Neuroscience Education in the Twenty-First Century,Wiertelak,2018,16(3),article,yes,37,26,https://www.funjournal.org/wp-content/uploads/2018/07/june-16-244.pdf
+6,A Discussion of Diversity and Inclusivity at the Institutional Level: The Need For a Strategic Plan,Martinez,2018,16(3),article,yes,47,26,https://www.funjournal.org/wp-content/uploads/2018/08/june-16-252.pdf
+7,Integrating Research into the Undergraduate Curriculum: 2. Scaffolding Research Skills and Transitioning toward Independent Research,Morrison,2020,19(1),article,,26,21,https://www.funjournal.org/wp-content/uploads/2021/01/june-19-64.pdf
+8,Integrating Research into the Undergraduate Curriculum: 1. Early Research Experiences and Training,Buffalari,2020,19(1),article,,22,20,https://www.funjournal.org/wp-content/uploads/2021/01/june-19-52.pdf
+9,Complementing Neurophysiology Education for Developing Countries via Cost-Effective Virtual Labs: Case Studies and Classroom Scenarios,Diwakar,2014,12(2),article,,35,20,https://www.funjournal.org/wp-content/uploads/2015/09/june-12-130.pdf
+10,“Social” Neuroscience: Leveraging Social Media to Increase Student Engagement and Public Understanding of Neuroscience,Valentine,2016,15(1),article,,22,20,https://www.funjournal.org/wp-content/uploads/2016/10/june-15-94.pdf
+11,On the Application of Multivariate Statistical and Data Mining Analyses to Data in Neuroscience,Smith,2018,16(2),review,,20,19,https://www.funjournal.org/wp-content/uploads/2018/03/june-16-r20.pdf
+12,"Motivation, Belongingness, and Anxiety in Neuroscience Undergraduates: Emphasizing First Generation College Students",Gaudier-Diaz,2019,17(2),article,,27,19,https://www.funjournal.org/wp-content/uploads/2019/07/june-17-145.pdf
+13,Building an Inclusive Classroom,Penner,2018,16(3),article,yes,25,18,https://www.funjournal.org/wp-content/uploads/2018/09/june-16-268.pdf
+14,Learning How to Code While Analyzing an Open Access Electrophysiology Dataset,Juavinett,2020,19(1),article,,20,18,https://www.funjournal.org/wp-content/uploads/2021/01/june-19-94.pdf
+15,Column Chromatography Analysis of Brain Tissue: An Advanced Laboratory Exercise for Neuroscience Majors,Church,2005,3(2),article,,46,16,https://www.funjournal.org/wp-content/uploads/2015/09/Church.pdf
+16,The Allen Brain Atlas as a Resource for Teaching Undergraduate Neuroscience,Gilbert,2018,16(3),article,yes,22,15,https://www.funjournal.org/wp-content/uploads/2018/08/june-16-261.pdf
+17,An Effective Model for Engaging Faculty and Undergraduate Students in Neuroscience Outreach with Middle Schoolers,Vollbrecht,2019,17(2),article,,18,15,https://www.funjournal.org/wp-content/uploads/2019/07/june-17-130.pdf
+18,Undergraduate Biocuration: Developing Tomorrow’s Researchers While Mining Today’s Data,Cassie,2015,14(1),article,,32,15,https://www.funjournal.org/wp-content/uploads/2015/10/june-14-56.pdf
+19,Quantitative Indicators of Continued Growth in Undergraduate Neuroscience Education in the US,Rochon,2019,18(1),article,,24,15,https://www.funjournal.org/wp-content/uploads/2019/12/june-18-51.pdf
+20,Undergraduate Neuroscience Education in the U.S.: Quantitative Comparisons of Programs and Graduates in the Broader Context of Undergraduate Life Sciences Education,Ramos,2016,15(1),article,,25,14,https://www.funjournal.org/wp-content/uploads/2016/07/june-15-1.pdf
