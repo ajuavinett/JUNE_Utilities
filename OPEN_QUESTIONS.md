@@ -5,38 +5,10 @@ move it to **Decisions** with the date and the answer.
 
 ## Open questions
 
-1. **Is 20(3) a workshop issue?** It doesn't look like one: its editorials are
-   the 20th-anniversary editor-in-chief piece and opinion pieces, not a
-   proceedings introduction. Leaning no.
-3. **What counts as an "article" in the per-volume counts?** Research and
-   teaching articles only, or also editorials, media reviews, interviews,
-   and case studies? (We can report each type separately either way.)
-   The Editorials section also holds items that aren't scholarship, such
-   as award announcements, "Call for JUNE Editorial Board Members", and
-   SfN meeting reports.
-4. **Should workshop articles appear in the top-cited list?** Several 11(1)
-   workshop papers (2012) are among the most-cited JUNE papers overall.
 5. **Media reviews not indexed in PubMed:** most have no abstract. Include them
    in the topic analysis using the title only, or leave them out?
-6. **Which items in the workshop issues count as workshop items?** Right now
-   every item in those issues is tagged (128 items across 6 issues). That
-   includes proceedings introductions, award pieces such as "The 2014 FUN
-   Achievement Award" and "Jeanne Narum: A Lifetime of Achievement", and
-   perspectives. Are any of these, or any regular articles in those issues,
-   *not* workshop items? To review, filter `data/june_inventory.csv` on
-   `is_fun_workshop`.
-7. **How exactly should "first 5 years" be defined?** Notebook 03 currently
-   counts citing papers published in the item's publication year or the 4
-   years after (e.g., 2010–2014 for a 2010 item), and leaves the count blank
-   for items published in 2022 or later. Alternatives: the 5 years *after*
-   publication (2011–2015), or 60 months from the exact publication date.
-   (The length of the window is `YEARS_AFTER_PUBLICATION` in the notebook's
-   Settings cell; the other options need a small code change.)
-8. **Which citation source do we report?** OpenAlex (counts citations from
-   all kinds of scholarly works, including books, theses, and preprints) is
-   the main count. NIH iCite (only papers in PubMed) is recorded as a
-   cross-check; the two rank items very similarly (rank correlation 0.94).
-   Report OpenAlex only, or both?
+   - *Waiting on:* Ashley to ask Elaine, Erik, and Bill why media reviews
+     aren't indexed in PubMed.
 9. **Name the topic groups.** `04_topics.ipynb` found 15 groups of articles
    by their words; the computer doesn't name them. Read the top words and
    example titles in `data/topic_words.csv` and agree on a short name for
@@ -92,3 +64,23 @@ move it to **Decisions** with the date and the answer.
   Labs Workshop at Bowdoin College…" describes a FUN workshop but is *not* a
   workshop paper. Other articles that describe FUN workshops outside the
   proceedings issues are treated the same way.
+- **2026-10-02 — 20(3) is a regular issue, not a workshop issue.** The 2020
+  FUN Summer Virtual Meeting proceedings are in 20(2). (Was question 1.)
+- **2026-10-02 — Every item type counts in the per-volume counts**
+  (articles, editorials, media reviews, case studies, and technical papers;
+  interviews are filed as editorials), with the number of each type
+  reported as a breakdown.
+  Workshop items are still counted separately (see 2026-09-25). In
+  `05_figures.ipynb`: `COUNT_ITEM_TYPES` lists all types. (Was question 3.)
+- **2026-10-02 — Workshop articles can appear in the top-cited lists**,
+  with no separate treatment. In `05_figures.ipynb`:
+  `INCLUDE_WORKSHOP_IN_TOP_CITED = True`. (Was question 4.)
+- **2026-10-02 — Workshop tagging stays as is:** every item in the six
+  proceedings issues (133 items) counts as a workshop item, including
+  proceedings introductions, award pieces, and perspectives. (Was question 6.)
+- **2026-10-02 — "First 5 years" = the publication year plus the 4 years
+  after** (e.g., 2010–2014 for a 2010 item). In `03_citations.ipynb`:
+  `YEARS_AFTER_PUBLICATION = 4`. (Was question 7.)
+- **2026-10-02 — Report OpenAlex citation counts.** NIH iCite stays in
+  `data/june_citations.csv` as a behind-the-scenes cross-check only; the
+  figures and tables use OpenAlex. (Was question 8.)

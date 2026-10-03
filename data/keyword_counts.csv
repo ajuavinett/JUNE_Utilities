@@ -5,463 +5,462 @@ electrophysiology,21,2.0,0.0,6.6,5.3,3.5
 case study,18,2.0,0.0,3.7,5.9,3.5
 action potential,17,4.0,4.8,2.9,2.6,3.5
 neurophysiology,15,4.0,2.4,2.9,2.6,3.5
-cure,14,0.0,0.0,0.0,5.3,7.0
 outreach,14,0.0,1.2,2.9,2.6,5.8
+cure,14,0.0,0.0,0.0,5.3,7.0
 assessment,13,0.0,1.2,2.9,3.9,2.3
-interdisciplinary,12,0.0,1.2,3.7,2.0,3.5
 service learning,12,2.0,2.4,2.2,3.3,1.2
 neuron,12,4.0,4.8,3.7,0.7,0.0
+interdisciplinary,12,0.0,1.2,3.7,2.0,3.5
 simulation,12,2.0,2.4,2.2,3.3,1.2
-primary literature,11,0.0,0.0,1.5,5.9,0.0
 behavior,11,0.0,4.8,1.5,2.0,2.3
-diversity,10,0.0,0.0,1.5,3.9,2.3
+primary literature,11,0.0,0.0,1.5,5.9,0.0
+eeg,11,0.0,4.8,2.2,1.3,2.3
 undergraduate research,10,0.0,1.2,2.2,3.3,1.2
 stem,10,0.0,0.0,1.5,5.3,0.0
+diversity,10,0.0,0.0,1.5,3.9,2.3
 physiology,9,0.0,3.6,2.9,0.7,1.2
 drosophila,9,2.0,1.2,2.2,2.0,1.2
-memory,8,2.0,1.2,2.2,1.3,1.2
-collaborative learning,8,0.0,0.0,1.5,2.6,2.3
 neuropharmacology,8,0.0,0.0,3.7,0.7,2.3
+memory,8,2.0,1.2,2.2,1.3,1.2
 pharmacology,8,0.0,1.2,3.7,1.3,0.0
+addiction,8,0.0,0.0,4.4,0.7,1.2
 professional development,8,0.0,0.0,2.2,1.3,3.5
 zebrafish,8,0.0,0.0,2.2,2.0,2.3
-addiction,8,0.0,0.0,4.4,0.7,1.2
-behavioral neuroscience,7,8.0,0.0,0.7,0.0,2.3
-eeg,7,0.0,1.2,2.2,1.3,1.2
+collaborative learning,8,0.0,0.0,1.5,2.6,2.3
 computational neuroscience,7,0.0,1.2,0.7,2.6,1.2
-remote learning,7,0.0,0.0,1.5,2.0,2.3
 course design,7,0.0,0.0,0.0,2.0,4.7
+remote learning,7,0.0,0.0,1.5,2.0,2.3
+behavioral neuroscience,7,8.0,0.0,0.7,0.0,2.3
+crayfish,6,2.0,2.4,1.5,0.7,0.0
+extracellular recording,6,0.0,2.4,2.9,0.0,0.0
+critical thinking,6,2.0,0.0,2.2,0.7,1.2
 anxiety,6,2.0,1.2,0.0,2.0,1.2
 peer review,6,2.0,1.2,2.2,0.7,0.0
-critical thinking,6,2.0,0.0,2.2,0.7,1.2
-optogenetics,6,0.0,0.0,0.7,1.3,3.5
-extracellular recording,6,0.0,2.4,2.9,0.0,0.0
-neuroscience major,6,0.0,0.0,0.7,3.3,0.0
-crayfish,6,2.0,2.4,1.5,0.7,0.0
-cognitive neuroscience,6,0.0,1.2,1.5,1.3,1.2
-lecture,6,0.0,1.2,1.5,1.3,1.2
-dopamine,6,0.0,1.2,0.7,2.0,1.2
-experimental design,6,2.0,1.2,0.0,1.3,2.3
-stem education,6,0.0,0.0,1.5,1.3,2.3
 mentoring,6,2.0,2.4,0.7,0.7,1.2
+lecture,6,0.0,1.2,1.5,1.3,1.2
 hippocampus,6,2.0,1.2,0.7,2.0,0.0
-c. elegans,6,0.0,1.2,0.7,1.3,2.3
+experimental design,6,2.0,1.2,0.0,1.3,2.3
+neuroscience major,6,0.0,0.0,0.7,3.3,0.0
+dopamine,6,0.0,1.2,0.7,2.0,1.2
 neuroscience program,6,0.0,1.2,1.5,2.0,0.0
-student engagement,5,0.0,1.2,0.7,1.3,1.2
-neural network,5,2.0,1.2,0.0,2.0,0.0
-lab activity,5,0.0,0.0,0.0,0.7,4.7
+stem education,6,0.0,0.0,1.5,1.3,2.3
+c. elegans,6,0.0,1.2,0.7,1.3,2.3
+cognitive neuroscience,6,0.0,1.2,1.5,1.3,1.2
+optogenetics,6,0.0,0.0,0.7,1.3,3.5
+society for neuroscience,5,2.0,2.4,0.0,1.3,0.0
+synapse,5,2.0,0.0,0.7,1.3,1.2
+online learning,5,0.0,0.0,1.5,2.0,0.0
 flipped classroom,5,0.0,0.0,0.7,2.0,1.2
 laboratory course,5,4.0,0.0,1.5,0.0,1.2
-synapse,5,2.0,0.0,0.7,1.3,1.2
+neuroscience curriculum,5,0.0,0.0,3.7,0.0,0.0
+matlab,5,2.0,0.0,1.5,0.7,1.2
+science communication,5,0.0,0.0,0.0,1.3,3.5
+lab activity,5,0.0,0.0,0.0,0.7,4.7
+inclusion,5,0.0,0.0,0.0,2.6,1.2
 big data,5,0.0,0.0,0.7,2.6,0.0
+student engagement,5,0.0,1.2,0.7,1.3,1.2
 neuroinformatics,5,2.0,0.0,1.5,1.3,0.0
 undergraduate student,5,0.0,1.2,1.5,0.0,2.3
-matlab,5,2.0,0.0,1.5,0.7,1.2
-neuroscience curriculum,5,0.0,0.0,3.7,0.0,0.0
-online learning,5,0.0,0.0,1.5,2.0,0.0
 distance learning,5,0.0,0.0,0.0,2.6,1.2
-science communication,5,0.0,0.0,0.0,1.3,3.5
-inclusion,5,0.0,0.0,0.0,2.6,1.2
-neurobiology,5,0.0,0.0,1.5,1.3,1.2
-python,5,0.0,0.0,0.7,2.0,1.2
 game-based learning,5,0.0,0.0,0.0,0.7,4.7
-society for neuroscience,5,2.0,2.4,0.0,1.3,0.0
-sex difference,4,2.0,0.0,0.0,1.3,1.2
-remote instruction,4,0.0,0.0,0.0,2.6,0.0
-neurodevelopment,4,0.0,0.0,0.0,2.0,1.2
-electroencephalogram (eeg),4,0.0,3.6,0.0,0.0,1.2
-retina,4,0.0,0.0,2.2,0.0,1.2
-curriculum,4,0.0,0.0,0.7,2.0,0.0
-inquiry-based learning,4,0.0,1.2,0.7,0.7,1.2
-virtual experiment,4,0.0,1.2,1.5,0.7,0.0
-coding,4,0.0,0.0,0.0,2.0,1.2
-inclusive pedagogy,4,0.0,0.0,0.0,2.6,0.0
+python,5,0.0,0.0,0.7,2.0,1.2
+neural network,5,2.0,1.2,0.0,2.0,0.0
+neurobiology,5,0.0,0.0,1.5,1.3,1.2
 taste,4,2.0,0.0,1.5,0.0,1.2
-inquiry-based instruction,4,0.0,3.6,0.7,0.0,0.0
-neurotransmission,4,0.0,0.0,1.5,0.7,1.2
-poster presentation,4,0.0,1.2,1.5,0.7,0.0
-caffeine,4,0.0,3.6,0.0,0.7,0.0
-calcium imaging,4,0.0,0.0,0.0,1.3,2.3
-high school,4,0.0,0.0,0.7,0.0,3.5
-problem-based learning,4,2.0,2.4,0.0,0.7,0.0
-neuroethics,4,0.0,0.0,1.5,0.7,1.2
-neural circuit,4,0.0,1.2,0.7,1.3,0.0
-science writing,4,2.0,0.0,1.5,0.7,0.0
-immunohistochemistry,4,0.0,1.2,1.5,0.0,1.2
-stress,4,2.0,0.0,0.0,0.7,2.3
-educational resources,4,0.0,0.0,0.7,2.0,0.0
-introductory course,4,0.0,0.0,1.5,0.0,2.3
-introductory neuroscience,4,0.0,2.4,0.0,0.7,1.2
-functional magnetic resonance imaging (fmri),4,2.0,1.2,0.0,0.7,1.2
-neuroscience minor,4,2.0,0.0,0.7,0.7,1.2
-online,4,2.0,1.2,0.0,1.3,0.0
-3d printing,4,0.0,0.0,0.0,0.7,3.5
 genetics,4,0.0,0.0,2.2,0.7,0.0
+online,4,2.0,1.2,0.0,1.3,0.0
+curriculum,4,0.0,0.0,0.7,2.0,0.0
+virtual experiment,4,0.0,1.2,1.5,0.7,0.0
+remote instruction,4,0.0,0.0,0.0,2.6,0.0
+calcium imaging,4,0.0,0.0,0.0,1.3,2.3
+caffeine,4,0.0,3.6,0.0,0.7,0.0
+retina,4,0.0,0.0,2.2,0.0,1.2
 student-centered learning,4,0.0,1.2,1.5,0.7,0.0
+sex difference,4,2.0,0.0,0.0,1.3,1.2
+neuroethics,4,0.0,0.0,1.5,0.7,1.2
+inquiry-based instruction,4,0.0,3.6,0.7,0.0,0.0
+introductory neuroscience,4,0.0,2.4,0.0,0.7,1.2
+introductory course,4,0.0,0.0,1.5,0.0,2.3
+neurotransmission,4,0.0,0.0,1.5,0.7,1.2
+stress,4,2.0,0.0,0.0,0.7,2.3
 biopsychology,4,0.0,0.0,0.0,0.7,3.5
+science writing,4,2.0,0.0,1.5,0.7,0.0
 imagej,4,0.0,0.0,0.0,2.0,1.2
-neuroscientist,3,0.0,0.0,0.0,1.3,1.2
-software,3,0.0,1.2,0.7,0.7,0.0
-belonging,3,0.0,0.0,0.0,0.7,2.3
-case-based learning,3,0.0,0.0,0.7,0.7,1.2
-dissection,3,0.0,0.0,1.5,0.7,0.0
-hormones,3,2.0,1.2,0.0,0.7,0.0
-programming,3,0.0,0.0,0.0,0.7,2.3
-project-based learning,3,0.0,0.0,0.7,0.7,1.2
-image analysis,3,2.0,0.0,0.0,1.3,0.0
-under-represented minorities (urm),3,0.0,0.0,2.2,0.0,0.0
-tutorial,3,0.0,1.2,0.0,0.7,1.2
-non-science majors,3,0.0,1.2,0.7,0.7,0.0
-human,3,4.0,0.0,0.7,0.0,0.0
-non-major,3,0.0,1.2,1.5,0.0,0.0
-engineering,3,0.0,0.0,0.7,1.3,0.0
-data analysis,3,0.0,1.2,0.0,0.7,1.2
-laboratory exercise,3,0.0,0.0,1.5,0.7,0.0
+neurodevelopment,4,0.0,0.0,0.0,2.0,1.2
+immunohistochemistry,4,0.0,1.2,1.5,0.0,1.2
+inquiry-based learning,4,0.0,1.2,0.7,0.7,1.2
+neuroscience minor,4,2.0,0.0,0.7,0.7,1.2
+3d printing,4,0.0,0.0,0.0,0.7,3.5
+inclusive pedagogy,4,0.0,0.0,0.0,2.6,0.0
+coding,4,0.0,0.0,0.0,2.0,1.2
+educational resources,4,0.0,0.0,0.7,2.0,0.0
+poster presentation,4,0.0,1.2,1.5,0.7,0.0
+problem-based learning,4,2.0,2.4,0.0,0.7,0.0
+neural circuit,4,0.0,1.2,0.7,1.3,0.0
+high school,4,0.0,0.0,0.7,0.0,3.5
+functional magnetic resonance imaging (fmri),4,2.0,1.2,0.0,0.7,1.2
 histology,3,4.0,1.2,0.0,0.0,0.0
-cortisol,3,2.0,0.0,0.0,0.0,2.3
-science process skill,3,0.0,0.0,0.0,0.7,2.3
+belonging,3,0.0,0.0,0.0,0.7,2.3
 contemplative neuroscience,3,0.0,0.0,0.0,2.0,0.0
-serotonin,3,0.0,1.2,0.0,1.3,0.0
-journal club,3,0.0,0.0,0.7,1.3,0.0
-covid-19,3,0.0,0.0,0.0,0.0,3.5
-concept mapping,3,0.0,0.0,1.5,0.7,0.0
-equity,3,0.0,0.0,0.0,1.3,1.2
-engaged learning,3,0.0,0.0,0.7,1.3,0.0
-study abroad,3,0.0,0.0,1.5,0.0,1.2
-scientific communication,3,2.0,0.0,0.7,0.0,1.2
-scientific literacy,3,0.0,1.2,0.7,0.0,1.2
-sex,3,0.0,1.2,0.0,0.7,1.2
-technology,3,0.0,0.0,0.7,1.3,0.0
-collaborative research,3,2.0,0.0,0.7,0.7,0.0
-science,3,2.0,0.0,0.7,0.7,0.0
+tutorial,3,0.0,1.2,0.0,0.7,1.2
 classroom activity,3,0.0,0.0,0.7,0.7,1.2
-drug,3,0.0,0.0,2.2,0.0,0.0
-lateral line,3,0.0,0.0,0.7,1.3,0.0
-core concepts,3,0.0,0.0,0.0,0.7,2.3
-class demonstration,3,0.0,2.4,0.7,0.0,0.0
-evolution,3,4.0,1.2,0.0,0.0,0.0
+science process skill,3,0.0,0.0,0.0,0.7,2.3
 open data,3,0.0,0.0,0.0,0.7,2.3
+evolution,3,4.0,1.2,0.0,0.0,0.0
+neuroscientist,3,0.0,0.0,0.0,1.3,1.2
+pui,3,0.0,0.0,0.0,2.0,0.0
+covid-19,3,0.0,0.0,0.0,0.0,3.5
+under-represented minorities (urm),3,0.0,0.0,2.2,0.0,0.0
+core concepts,3,0.0,0.0,0.0,0.7,2.3
+engineering,3,0.0,0.0,0.7,1.3,0.0
 rubric,3,0.0,0.0,0.7,1.3,0.0
+image analysis,3,2.0,0.0,0.0,1.3,0.0
+class demonstration,3,0.0,2.4,0.7,0.0,0.0
+open field,3,0.0,2.4,0.7,0.0,0.0
+lateral line,3,0.0,0.0,0.7,1.3,0.0
+cortisol,3,2.0,0.0,0.0,0.0,2.3
+drug,3,0.0,0.0,2.2,0.0,0.0
+project-based learning,3,0.0,0.0,0.7,0.7,1.2
+non-science majors,3,0.0,1.2,0.7,0.7,0.0
+cell culture,3,0.0,1.2,1.5,0.0,0.0
+case-based learning,3,0.0,0.0,0.7,0.7,1.2
+serotonin,3,0.0,1.2,0.0,1.3,0.0
+gene expression,3,0.0,1.2,0.0,1.3,0.0
+gender,3,0.0,1.2,0.0,0.7,1.2
+writing,3,2.0,1.2,0.7,0.0,0.0
+technology,3,0.0,0.0,0.7,1.3,0.0
+research,3,0.0,1.2,0.0,0.7,1.2
+sex,3,0.0,1.2,0.0,0.7,1.2
+non-major,3,0.0,1.2,1.5,0.0,0.0
+laboratory exercise,3,0.0,0.0,1.5,0.7,0.0
+collaborative research,3,2.0,0.0,0.7,0.7,0.0
+programming,3,0.0,0.0,0.0,0.7,2.3
+science,3,2.0,0.0,0.7,0.7,0.0
+equity,3,0.0,0.0,0.0,1.3,1.2
+concept mapping,3,0.0,0.0,1.5,0.7,0.0
+team teaching,3,0.0,1.2,1.5,0.0,0.0
+journal club,3,0.0,0.0,0.7,1.3,0.0
 illusion,3,0.0,1.2,0.7,0.7,0.0
 experiential learning,3,0.0,0.0,1.5,0.0,1.2
-team teaching,3,0.0,1.2,1.5,0.0,0.0
-open field,3,0.0,2.4,0.7,0.0,0.0
-cell culture,3,0.0,1.2,1.5,0.0,0.0
-mindfulness,3,0.0,0.0,0.0,2.0,0.0
-allen brain atlas,3,0.0,1.2,0.0,1.3,0.0
-vibrotactile amplitude discrimination,3,0.0,1.2,1.5,0.0,0.0
-neuroscience graduates,3,0.0,0.0,0.0,1.3,1.2
-microscopy,3,2.0,2.4,0.0,0.0,0.0
-attitude,3,0.0,0.0,1.5,0.7,0.0
-motor systems,3,0.0,0.0,0.7,1.3,0.0
-modeling,3,4.0,0.0,0.0,0.7,0.0
-undergraduate teaching,3,0.0,0.0,0.0,1.3,1.2
+study abroad,3,0.0,0.0,1.5,0.0,1.2
+human,3,4.0,0.0,0.7,0.0,0.0
+hormones,3,2.0,1.2,0.0,0.7,0.0
 mentorship,3,0.0,1.2,0.0,0.7,1.2
-psychology,3,2.0,1.2,0.0,0.7,0.0
-aggression,3,2.0,1.2,0.0,0.0,1.2
+software,3,0.0,1.2,0.7,0.7,0.0
 neuromuscular junction,3,0.0,0.0,1.5,0.7,0.0
-pui,3,0.0,0.0,0.0,2.0,0.0
-fluorescence microscopy,3,0.0,0.0,0.0,1.3,1.2
-visual system,3,0.0,0.0,2.2,0.0,0.0
-video,3,2.0,0.0,0.7,0.7,0.0
-neuropsychology,3,0.0,1.2,0.0,0.7,1.2
-neurodegeneration,3,0.0,0.0,1.5,0.7,0.0
+engaged learning,3,0.0,0.0,0.7,1.3,0.0
 neuroendocrinology,3,0.0,0.0,0.0,0.7,2.3
-gaba,3,0.0,0.0,1.5,0.7,0.0
-animal research,3,0.0,0.0,1.5,0.7,0.0
-research,3,0.0,1.2,0.0,0.7,1.2
-psychopharmacology,3,0.0,0.0,0.7,0.7,1.2
+psychology,3,2.0,1.2,0.0,0.7,0.0
 allen institute for brain science,3,0.0,0.0,0.0,0.7,2.3
-neuroscience lab,3,0.0,0.0,0.0,1.3,1.2
-writing,3,2.0,1.2,0.7,0.0,0.0
-gender,3,0.0,1.2,0.0,0.7,1.2
-gene expression,3,0.0,1.2,0.0,1.3,0.0
+vibrotactile amplitude discrimination,3,0.0,1.2,1.5,0.0,0.0
 fmri,3,0.0,0.0,2.2,0.0,0.0
-voltage clamp,2,2.0,0.0,0.0,0.7,0.0
-pain,2,0.0,0.0,0.0,0.7,1.2
-motor control,2,2.0,0.0,0.0,0.7,0.0
-contemplative pedagogy,2,0.0,0.0,0.0,1.3,0.0
-pandemic,2,0.0,0.0,0.0,0.0,2.3
-glucose,2,4.0,0.0,0.0,0.0,0.0
-voltage-clamp,2,2.0,0.0,0.7,0.0,0.0
-corticospinal tract,2,2.0,0.0,0.7,0.0,0.0
-receptive field,2,0.0,0.0,0.7,0.7,0.0
-receptor,2,0.0,0.0,1.5,0.0,0.0
-analgesia,2,0.0,1.2,0.7,0.0,0.0
-neuroimmunology,2,0.0,0.0,0.0,0.7,1.2
-cooling,2,2.0,1.2,0.0,0.0,0.0
-amphetamine,2,0.0,2.4,0.0,0.0,0.0
-interdisciplinary learning,2,0.0,2.4,0.0,0.0,0.0
-enhancing teaching effectiveness,2,0.0,0.0,1.5,0.0,0.0
-amplifier,2,0.0,1.2,0.0,0.7,0.0
-core competencies,2,0.0,0.0,0.7,0.7,0.0
-cooperative learning,2,0.0,0.0,0.0,1.3,0.0
-grant proposal,2,0.0,0.0,1.5,0.0,0.0
-introduction to neuroscience,2,0.0,0.0,0.7,0.0,1.2
-problem based learning (pbl),2,0.0,0.0,1.5,0.0,0.0
+scientific communication,3,2.0,0.0,0.7,0.0,1.2
+microscopy,3,2.0,2.4,0.0,0.0,0.0
+neuropsychology,3,0.0,1.2,0.0,0.7,1.2
+aggression,3,2.0,1.2,0.0,0.0,1.2
+allen brain atlas,3,0.0,1.2,0.0,1.3,0.0
+psychopharmacology,3,0.0,0.0,0.7,0.7,1.2
+video,3,2.0,0.0,0.7,0.7,0.0
+mindfulness,3,0.0,0.0,0.0,2.0,0.0
+attitude,3,0.0,0.0,1.5,0.7,0.0
+neuroscience graduates,3,0.0,0.0,0.0,1.3,1.2
+gaba,3,0.0,0.0,1.5,0.7,0.0
+dissection,3,0.0,0.0,1.5,0.7,0.0
+data analysis,3,0.0,1.2,0.0,0.7,1.2
+neurodegeneration,3,0.0,0.0,1.5,0.7,0.0
+neuroscience lab,3,0.0,0.0,0.0,1.3,1.2
+scientific literacy,3,0.0,1.2,0.7,0.0,1.2
+motor systems,3,0.0,0.0,0.7,1.3,0.0
+animal research,3,0.0,0.0,1.5,0.7,0.0
+fluorescence microscopy,3,0.0,0.0,0.0,1.3,1.2
+undergraduate teaching,3,0.0,0.0,0.0,1.3,1.2
+visual system,3,0.0,0.0,2.2,0.0,0.0
+modeling,3,4.0,0.0,0.0,0.7,0.0
+digital learning,2,0.0,0.0,0.7,0.7,0.0
+estrogen,2,2.0,1.2,0.0,0.0,0.0
+scientist,2,2.0,0.0,0.7,0.0,0.0
+curriculum development,2,0.0,0.0,0.0,0.7,1.2
+electroretinogram,2,0.0,0.0,1.5,0.0,0.0
+community engagement,2,0.0,0.0,0.7,0.7,0.0
+community involvement project,2,0.0,0.0,0.7,0.7,0.0
+serious game,2,0.0,0.0,0.0,0.0,2.3
+primarily undergraduate institution (pui),2,0.0,0.0,0.7,0.7,0.0
 escape response,2,0.0,0.0,1.5,0.0,0.0
 community service,2,2.0,0.0,0.0,0.7,0.0
-refractory period,2,0.0,1.2,0.0,0.0,1.2
-laboratory activity,2,2.0,0.0,0.0,0.7,0.0
-laboratory activities,2,0.0,2.4,0.0,0.0,0.0
-laboratory,2,0.0,1.2,0.7,0.0,0.0
-behavioral economics,2,0.0,0.0,1.5,0.0,0.0
-suction electrode,2,0.0,1.2,0.0,0.7,0.0
-vision,2,0.0,0.0,1.5,0.0,0.0
-lab exercise,2,0.0,0.0,0.0,1.3,0.0
-vision and change,2,0.0,0.0,0.7,0.7,0.0
-animal model,2,2.0,1.2,0.0,0.0,0.0
-science education,2,0.0,1.2,0.7,0.0,0.0
-knowledge representation,2,0.0,0.0,0.7,0.7,0.0
-high-throughput data,2,0.0,0.0,0.0,0.0,2.3
-structural knowledge,2,0.0,0.0,0.7,0.7,0.0
-animal behavior,2,0.0,0.0,0.7,0.7,0.0
-model,2,0.0,1.2,0.0,0.0,1.2
-jupyter notebooks,2,0.0,0.0,0.0,1.3,0.0
-neuromuscular junction (nmj),2,2.0,1.2,0.0,0.0,0.0
-science outreach,2,0.0,1.2,0.7,0.0,0.0
-and mathematics (stem),2,0.0,0.0,0.7,0.7,0.0
-ovariectomy,2,0.0,2.4,0.0,0.0,0.0
-epilepsy,2,0.0,0.0,0.0,0.7,1.2
-introductory neuroscience course,2,0.0,1.2,0.0,0.7,0.0
-craving,2,0.0,0.0,1.5,0.0,0.0
-reflection,2,0.0,0.0,0.7,0.7,0.0
-confidence,2,0.0,0.0,0.7,0.7,0.0
-neurology curriculum,2,0.0,0.0,0.0,0.0,2.3
-anatomy,2,0.0,0.0,0.0,0.7,1.2
-pcr,2,0.0,0.0,0.7,0.7,0.0
-neuroethology,2,0.0,0.0,1.5,0.0,0.0
-interactive learning,2,0.0,0.0,0.7,0.0,1.2
-inclusive teaching,2,0.0,0.0,0.0,0.7,1.2
-women,2,2.0,0.0,0.0,0.7,0.0
-developmental neurobiology,2,0.0,0.0,0.0,0.7,1.2
-adaptation,2,0.0,0.0,1.5,0.0,0.0
-word recall,2,0.0,0.0,0.0,0.7,1.2
-educational escape room,2,0.0,0.0,0.0,0.0,2.3
-self-efficacy,2,0.0,0.0,0.0,1.3,0.0
-digital learning,2,0.0,0.0,0.7,0.7,0.0
-editing,2,0.0,0.0,0.7,0.7,0.0
-in situ hybridization,2,0.0,1.2,0.7,0.0,0.0
-humanities,2,2.0,0.0,0.0,0.7,0.0
-gamification,2,0.0,0.0,0.0,0.0,2.3
-hybrid,2,0.0,0.0,1.5,0.0,0.0
-seminar,2,2.0,0.0,0.7,0.0,0.0
-sensation,2,0.0,1.2,0.0,0.0,1.2
-giant fibers,2,0.0,1.2,0.7,0.0,0.0
-workshop,2,2.0,0.0,0.0,0.0,1.2
-hybrid learning,2,0.0,0.0,0.0,0.7,1.2
-immunocytochemistry,2,0.0,1.2,0.0,0.7,0.0
-gcamp,2,0.0,0.0,0.0,1.3,0.0
-neuroanatomy education,2,0.0,0.0,0.0,0.0,2.3
-sensory coding,2,2.0,0.0,0.0,0.7,0.0
-diy,2,0.0,0.0,0.7,0.7,0.0
-neural plasticity,2,0.0,1.2,0.0,0.7,0.0
-writing-to-learn,2,0.0,0.0,0.7,0.7,0.0
-dopamine transporter,2,0.0,1.2,0.7,0.0,0.0
-serious game,2,0.0,0.0,0.0,0.0,2.3
-drug abuse,2,0.0,0.0,0.7,0.7,0.0
-sensory transduction,2,2.0,0.0,0.7,0.0,0.0
-quantitative skills,2,0.0,0.0,0.0,0.7,1.2
-inclusive education,2,0.0,0.0,0.0,0.7,1.2
-inclusivity,2,0.0,0.0,0.0,0.7,1.2
-cre,2,0.0,0.0,0.0,1.3,0.0
-demonstration,2,0.0,1.2,0.7,0.0,0.0
-statistical inference,2,0.0,0.0,0.0,1.3,0.0
-statistical analysis,2,0.0,0.0,0.7,0.0,1.2
-engagement,2,0.0,0.0,0.0,1.3,0.0
-allen institute,2,0.0,0.0,0.0,1.3,0.0
-peer mentoring,2,0.0,0.0,0.7,0.0,1.2
-community engagement,2,0.0,0.0,0.7,0.7,0.0
-public education,2,0.0,2.4,0.0,0.0,0.0
-empathy,2,0.0,0.0,1.5,0.0,0.0
-intended learning outcome,2,0.0,1.2,0.0,0.7,0.0
-peer-mentoring,2,0.0,0.0,0.7,0.7,0.0
-cross-modality,2,0.0,1.2,0.7,0.0,0.0
-crustacean,2,2.0,0.0,0.0,0.7,0.0
-hodgkin-huxley,2,4.0,0.0,0.0,0.0,0.0
-perception,2,0.0,1.2,0.0,0.0,1.2
 embodied cognition,2,0.0,1.2,0.7,0.0,0.0
-primarily undergraduate institution (pui),2,0.0,0.0,0.7,0.7,0.0
-curriculum development,2,0.0,0.0,0.0,0.7,1.2
-neurodiversity,2,0.0,0.0,0.0,0.0,2.3
-electroretinogram,2,0.0,0.0,1.5,0.0,0.0
-website,2,0.0,1.2,0.7,0.0,0.0
-scientist,2,2.0,0.0,0.7,0.0,0.0
+laboratory activity,2,2.0,0.0,0.0,0.7,0.0
 presentation,2,0.0,0.0,0.7,0.7,0.0
-electromyography,2,0.0,0.0,1.5,0.0,0.0
-western blot,2,0.0,0.0,0.0,0.7,1.2
-administration,2,0.0,0.0,0.7,0.7,0.0
-rat,2,2.0,1.2,0.0,0.0,0.0
-electrical equivalent circuit,2,0.0,0.0,0.7,0.7,0.0
-wikipedia,2,0.0,1.2,0.7,0.0,0.0
-social behavior,2,0.0,1.2,0.0,0.0,1.2
-community involvement project,2,0.0,0.0,0.7,0.7,0.0
-summer program,2,2.0,0.0,0.0,0.7,0.0
-google doc,2,0.0,0.0,0.7,0.7,0.0
-biology,2,0.0,0.0,0.7,0.7,0.0
-first-year students,2,0.0,0.0,0.0,1.3,0.0
-research internship,2,0.0,0.0,0.7,0.7,0.0
-reward,2,0.0,0.0,1.5,0.0,0.0
-undergraduate pedagogy,2,0.0,1.2,0.0,0.0,1.2
-graduate,2,2.0,1.2,0.0,0.0,0.0
-capstone,2,0.0,0.0,0.7,0.7,0.0
-"neuroscience education, laboratory course",2,0.0,1.2,0.7,0.0,0.0
-nsdl,2,0.0,2.4,0.0,0.0,0.0
-limbic system,2,0.0,2.4,0.0,0.0,0.0
-extracellular,2,0.0,0.0,0.0,1.3,0.0
-object recognition,2,0.0,1.2,0.0,0.0,1.2
-autism,2,2.0,0.0,0.0,0.0,1.2
-psychomotor stimulants,2,0.0,0.0,0.7,0.7,0.0
-graduate teaching,2,0.0,1.2,0.7,0.0,0.0
-remote teaching,2,0.0,0.0,0.0,0.7,1.2
-biological psychology,2,2.0,0.0,0.7,0.0,0.0
-cell biology,2,0.0,1.2,0.0,0.7,0.0
-bioinformatics,2,0.0,1.2,0.7,0.0,0.0
-biography,2,2.0,1.2,0.0,0.0,0.0
-online education,2,0.0,0.0,0.0,0.7,1.2
-temperature control,2,2.0,1.2,0.0,0.0,0.0
-medical school,2,0.0,0.0,0.7,0.7,0.0
-central pattern generator,2,0.0,2.4,0.0,0.0,0.0
-lgbtq,2,0.0,0.0,0.0,0.7,1.2
-retrieval practice,2,0.0,0.0,0.0,1.3,0.0
-neuroscience experiment,2,2.0,0.0,0.0,0.7,0.0
-cerebellum,2,0.0,0.0,0.7,0.7,0.0
-tolerance,2,0.0,0.0,1.5,0.0,0.0
-brain awareness week,2,0.0,0.0,0.0,0.7,1.2
-brain awareness week (baw),2,0.0,2.4,0.0,0.0,0.0
-brain,2,0.0,1.2,0.0,0.0,1.2
-project-based learning (pbl),2,0.0,0.0,0.0,1.3,0.0
-toxicology,2,0.0,1.2,0.0,0.0,1.2
-brain initiative,2,0.0,0.0,0.7,0.7,0.0
-brain injury,2,2.0,0.0,0.7,0.0,0.0
-retention,2,0.0,0.0,0.0,0.0,2.3
-habituation,2,0.0,0.0,0.7,0.7,0.0
-mauthner cells,2,0.0,0.0,0.7,0.0,1.2
-low-cost,2,0.0,0.0,0.0,0.0,2.3
-backwards design,2,0.0,0.0,1.5,0.0,0.0
-film,2,2.0,0.0,0.7,0.0,0.0
-growth cone,2,0.0,0.0,1.5,0.0,0.0
-backward design,2,0.0,0.0,0.7,0.7,0.0
-mental illness,2,2.0,0.0,0.7,0.0,0.0
-neuroscience game,2,0.0,0.0,0.0,0.7,1.2
-faculty collaboration,2,0.0,0.0,0.7,0.7,0.0
-blended learning,2,0.0,0.0,0.0,0.7,1.2
-faculty,2,0.0,1.2,0.0,0.0,1.2
-group work,2,0.0,0.0,0.0,1.3,0.0
-cable properties,2,0.0,0.0,0.0,0.0,2.3
-blended,2,0.0,0.0,1.5,0.0,0.0
-logo,2,0.0,0.0,0.0,1.3,0.0
-neuroscience anxiety,2,0.0,1.2,0.7,0.0,0.0
-micromanipulator,2,0.0,0.0,0.0,1.3,0.0
-microscope,2,0.0,0.0,0.7,0.7,0.0
-heating,2,2.0,1.2,0.0,0.0,0.0
-open science,2,0.0,0.0,0.0,0.7,1.2
-classroom exercise,2,2.0,0.0,0.0,0.7,0.0
-teamwork,2,0.0,0.0,0.7,0.7,0.0
-arousal,2,0.0,0.0,0.7,0.0,1.2
-undergraduate neuroscience major,2,0.0,1.2,0.7,0.0,0.0
+craving,2,0.0,0.0,1.5,0.0,0.0
+college students,2,0.0,0.0,0.7,0.7,0.0
+laboratory instruction,2,0.0,1.2,0.0,0.7,0.0
+developmental neurobiology,2,0.0,0.0,0.0,0.7,1.2
 hebbian plasticity,2,0.0,0.0,0.7,0.7,0.0
+inclusive teaching,2,0.0,0.0,0.0,0.7,1.2
+inclusivity,2,0.0,0.0,0.0,0.7,1.2
 open-ended project,2,0.0,1.2,0.7,0.0,0.0
 closed-loop,2,0.0,0.0,0.0,1.3,0.0
 systems neuroscience,2,0.0,1.2,0.0,0.7,0.0
 synchronous,2,0.0,0.0,0.0,1.3,0.0
 cocaine,2,0.0,1.2,0.7,0.0,0.0
 synaptic transmission,2,0.0,0.0,0.7,0.7,0.0
-graduate school,2,2.0,0.0,0.0,0.7,0.0
-neuroscience studies,2,0.0,1.2,0.0,0.7,0.0
+demonstration,2,0.0,1.2,0.7,0.0,0.0
+social behavior,2,0.0,1.2,0.0,0.0,1.2
+educational escape room,2,0.0,0.0,0.0,0.0,2.3
 synaptic communication,2,0.0,0.0,1.5,0.0,0.0
+electrical equivalent circuit,2,0.0,0.0,0.7,0.7,0.0
 scaffolding,2,0.0,0.0,0.7,0.7,0.0
-graduate program,2,0.0,0.0,0.0,0.7,1.2
+self-efficacy,2,0.0,0.0,0.0,1.3,0.0
+sensory transduction,2,2.0,0.0,0.7,0.0,0.0
 collaboration,2,0.0,0.0,0.7,0.7,0.0
-best practices,2,0.0,0.0,0.7,0.7,0.0
+editing,2,0.0,0.0,0.7,0.7,0.0
+laboratory,2,0.0,1.2,0.7,0.0,0.0
+electromyography,2,0.0,0.0,1.5,0.0,0.0
+college,2,0.0,1.2,0.7,0.0,0.0
+laboratory activities,2,0.0,2.4,0.0,0.0,0.0
+diy,2,0.0,0.0,0.7,0.7,0.0
+dopamine transporter,2,0.0,1.2,0.7,0.0,0.0
+engagement,2,0.0,0.0,0.0,1.3,0.0
+introduction to neuroscience,2,0.0,0.0,0.7,0.0,1.2
+pain,2,0.0,0.0,0.0,0.7,1.2
+empathy,2,0.0,0.0,1.5,0.0,0.0
+contemplative pedagogy,2,0.0,0.0,0.0,1.3,0.0
+pandemic,2,0.0,0.0,0.0,0.0,2.3
+sensation,2,0.0,1.2,0.0,0.0,1.2
+hybrid learning,2,0.0,0.0,0.0,0.7,1.2
+peer mentoring,2,0.0,0.0,0.7,0.0,1.2
+cooling,2,2.0,1.2,0.0,0.0,0.0
+inclusive education,2,0.0,0.0,0.0,0.7,1.2
+core competencies,2,0.0,0.0,0.7,0.7,0.0
+summer program,2,2.0,0.0,0.0,0.7,0.0
+statistical analysis,2,0.0,0.0,0.7,0.0,1.2
+enhancing teaching effectiveness,2,0.0,0.0,1.5,0.0,0.0
+interdisciplinary learning,2,0.0,2.4,0.0,0.0,0.0
+corticospinal tract,2,2.0,0.0,0.7,0.0,0.0
+statistical inference,2,0.0,0.0,0.0,1.3,0.0
+open source,2,0.0,0.0,0.7,0.7,0.0
+cre,2,0.0,0.0,0.0,1.3,0.0
+sensory coding,2,2.0,0.0,0.0,0.7,0.0
+interactive learning,2,0.0,0.0,0.7,0.0,1.2
+pcr,2,0.0,0.0,0.7,0.7,0.0
+intended learning outcome,2,0.0,1.2,0.0,0.7,0.0
+structural knowledge,2,0.0,0.0,0.7,0.7,0.0
+drug abuse,2,0.0,0.0,0.7,0.7,0.0
+seminar,2,2.0,0.0,0.7,0.0,0.0
+suction electrode,2,0.0,1.2,0.0,0.7,0.0
+humanities,2,2.0,0.0,0.0,0.7,0.0
+lab exercise,2,0.0,0.0,0.0,1.3,0.0
+perception,2,0.0,1.2,0.0,0.0,1.2
+in situ hybridization,2,0.0,1.2,0.7,0.0,0.0
+hybrid,2,0.0,0.0,1.5,0.0,0.0
+immunocytochemistry,2,0.0,1.2,0.0,0.7,0.0
+science education,2,0.0,1.2,0.7,0.0,0.0
+knowledge representation,2,0.0,0.0,0.7,0.7,0.0
+problem based learning (pbl),2,0.0,0.0,1.5,0.0,0.0
+high-throughput data,2,0.0,0.0,0.0,0.0,2.3
+hodgkin-huxley,2,4.0,0.0,0.0,0.0,0.0
+crustacean,2,2.0,0.0,0.0,0.7,0.0
+jupyter notebooks,2,0.0,0.0,0.0,1.3,0.0
+cross-modality,2,0.0,1.2,0.7,0.0,0.0
+science outreach,2,0.0,1.2,0.7,0.0,0.0
+ovariectomy,2,0.0,2.4,0.0,0.0,0.0
+epilepsy,2,0.0,0.0,0.0,0.7,1.2
+introductory neuroscience course,2,0.0,1.2,0.0,0.7,0.0
+peer-mentoring,2,0.0,0.0,0.7,0.7,0.0
+confidence,2,0.0,0.0,0.7,0.7,0.0
+cooperative learning,2,0.0,0.0,0.0,1.3,0.0
+cell biology,2,0.0,1.2,0.0,0.7,0.0
+classroom exercise,2,2.0,0.0,0.0,0.7,0.0
+vision,2,0.0,0.0,1.5,0.0,0.0
+graduate teaching,2,0.0,1.2,0.7,0.0,0.0
+remote teaching,2,0.0,0.0,0.0,0.7,1.2
+micromanipulator,2,0.0,0.0,0.0,1.3,0.0
+neuroscience anxiety,2,0.0,1.2,0.7,0.0,0.0
+microscope,2,0.0,0.0,0.7,0.7,0.0
+microworld,2,0.0,0.0,0.0,1.3,0.0
+asynchronous,2,0.0,0.0,0.0,1.3,0.0
+videoconferencing,2,2.0,0.0,0.0,0.7,0.0
+arousal,2,0.0,0.0,0.7,0.0,1.2
+graduate school,2,2.0,0.0,0.0,0.7,0.0
+graduate program,2,0.0,0.0,0.0,0.7,1.2
 neuronal diversity,2,0.0,1.2,0.0,0.7,0.0
 apis mellifera,2,0.0,0.0,0.0,1.3,0.0
 forensic neuroscience,2,0.0,0.0,0.0,0.0,2.3
-college,2,0.0,1.2,0.7,0.0,0.0
-laboratory instruction,2,0.0,1.2,0.0,0.7,0.0
-college students,2,0.0,0.0,0.7,0.7,0.0
 relapse,2,0.0,0.0,1.5,0.0,0.0
-estrogen,2,2.0,1.2,0.0,0.0,0.0
-videoconferencing,2,2.0,0.0,0.0,0.7,0.0
-open source,2,0.0,0.0,0.7,0.7,0.0
-learning,2,0.0,0.0,0.7,0.7,0.0
-asynchronous,2,0.0,0.0,0.0,1.3,0.0
-team-teaching,2,0.0,2.4,0.0,0.0,0.0
+graduate,2,2.0,1.2,0.0,0.0,0.0
+google doc,2,0.0,0.0,0.7,0.7,0.0
+autism,2,2.0,0.0,0.0,0.0,1.2
+"neuroscience education, laboratory course",2,0.0,1.2,0.7,0.0,0.0
+psychomotor stimulants,2,0.0,0.0,0.7,0.7,0.0
+grant proposal,2,0.0,0.0,1.5,0.0,0.0
+medical school,2,0.0,0.0,0.7,0.7,0.0
 bioethics,2,0.0,0.0,0.7,0.0,1.2
-team-based learning (tbl),2,0.0,0.0,0.0,1.3,0.0
-procambarus clarkii,2,0.0,0.0,0.7,0.7,0.0
-microworld,2,0.0,0.0,0.0,1.3,0.0
-online teaching,2,0.0,0.0,0.0,1.3,0.0
 undergraduate instructor,2,0.0,0.0,0.7,0.0,1.2
 meditation,2,0.0,0.0,0.0,1.3,0.0
-health studies,2,0.0,0.0,0.0,1.3,0.0
+undergraduate learning,2,0.0,0.0,0.7,0.7,0.0
+neuroscience studies,2,0.0,1.2,0.0,0.7,0.0
+best practices,2,0.0,0.0,0.7,0.7,0.0
+behavioral economics,2,0.0,0.0,1.5,0.0,0.0
+neuroscience experiment,2,2.0,0.0,0.0,0.7,0.0
+open science,2,0.0,0.0,0.0,0.7,1.2
+undergraduate pedagogy,2,0.0,1.2,0.0,0.0,1.2
+first-year students,2,0.0,0.0,0.0,1.3,0.0
+mental illness,2,2.0,0.0,0.7,0.0,0.0
+backwards design,2,0.0,0.0,1.5,0.0,0.0
+backward design,2,0.0,0.0,0.7,0.7,0.0
+neuroscience game,2,0.0,0.0,0.0,0.7,1.2
+refractory period,2,0.0,1.2,0.0,0.0,1.2
+vision and change,2,0.0,0.0,0.7,0.7,0.0
+bioinformatics,2,0.0,1.2,0.7,0.0,0.0
+animal model,2,2.0,1.2,0.0,0.0,0.0
+neurodiversity,2,0.0,0.0,0.0,0.0,2.3
+website,2,0.0,1.2,0.7,0.0,0.0
+western blot,2,0.0,0.0,0.0,0.7,1.2
+administration,2,0.0,0.0,0.7,0.7,0.0
+rat,2,2.0,1.2,0.0,0.0,0.0
+wikipedia,2,0.0,1.2,0.7,0.0,0.0
+women,2,2.0,0.0,0.0,0.7,0.0
+adaptation,2,0.0,0.0,1.5,0.0,0.0
+word recall,2,0.0,0.0,0.0,0.7,1.2
+gamification,2,0.0,0.0,0.0,0.0,2.3
+giant fibers,2,0.0,1.2,0.7,0.0,0.0
+workshop,2,2.0,0.0,0.0,0.0,1.2
+gcamp,2,0.0,0.0,0.0,1.3,0.0
+neuroanatomy education,2,0.0,0.0,0.0,0.0,2.3
+neural plasticity,2,0.0,1.2,0.0,0.7,0.0
+writing-to-learn,2,0.0,0.0,0.7,0.7,0.0
+quantitative skills,2,0.0,0.0,0.0,0.7,1.2
+public education,2,0.0,2.4,0.0,0.0,0.0
+neuroethology,2,0.0,0.0,1.5,0.0,0.0
+allen institute,2,0.0,0.0,0.0,1.3,0.0
+receptor,2,0.0,0.0,1.5,0.0,0.0
+animal behavior,2,0.0,0.0,0.7,0.7,0.0
+model,2,0.0,1.2,0.0,0.0,1.2
+neuromuscular junction (nmj),2,2.0,1.2,0.0,0.0,0.0
+and mathematics (stem),2,0.0,0.0,0.7,0.7,0.0
+reflection,2,0.0,0.0,0.7,0.7,0.0
+neurology curriculum,2,0.0,0.0,0.0,0.0,2.3
+anatomy,2,0.0,0.0,0.0,0.7,1.2
+analgesia,2,0.0,1.2,0.7,0.0,0.0
+motor control,2,2.0,0.0,0.0,0.7,0.0
+neuroimmunology,2,0.0,0.0,0.0,0.7,1.2
+amplifier,2,0.0,1.2,0.0,0.7,0.0
+amphetamine,2,0.0,2.4,0.0,0.0,0.0
+receptive field,2,0.0,0.0,0.7,0.7,0.0
+voltage clamp,2,2.0,0.0,0.0,0.7,0.0
+voltage-clamp,2,2.0,0.0,0.7,0.0,0.0
+glucose,2,4.0,0.0,0.0,0.0,0.0
+biography,2,2.0,1.2,0.0,0.0,0.0
+undergraduate neuroscience major,2,0.0,1.2,0.7,0.0,0.0
+biological psychology,2,2.0,0.0,0.7,0.0,0.0
 teaching strategies,2,2.0,0.0,0.0,0.7,0.0
-major,2,0.0,1.2,0.7,0.0,0.0
-excitability,2,2.0,0.0,0.7,0.0,0.0
-learning and memory,2,0.0,1.2,0.0,0.7,0.0
+health studies,2,0.0,0.0,0.0,1.3,0.0
+brain injury,2,2.0,0.0,0.7,0.0,0.0
+retention,2,0.0,0.0,0.0,0.0,2.3
+online teaching,2,0.0,0.0,0.0,1.3,0.0
+habituation,2,0.0,0.0,0.7,0.7,0.0
+low-cost,2,0.0,0.0,0.0,0.0,2.3
+tolerance,2,0.0,0.0,1.5,0.0,0.0
+procambarus clarkii,2,0.0,0.0,0.7,0.7,0.0
+faculty collaboration,2,0.0,0.0,0.7,0.7,0.0
+team-based learning (tbl),2,0.0,0.0,0.0,1.3,0.0
+faculty,2,0.0,1.2,0.0,0.0,1.2
+cable properties,2,0.0,0.0,0.0,0.0,2.3
+logo,2,0.0,0.0,0.0,1.3,0.0
+retrieval practice,2,0.0,0.0,0.0,1.3,0.0
+team-teaching,2,0.0,2.4,0.0,0.0,0.0
+reward,2,0.0,0.0,1.5,0.0,0.0
+teamwork,2,0.0,0.0,0.7,0.7,0.0
+cerebellum,2,0.0,0.0,0.7,0.7,0.0
+lgbtq,2,0.0,0.0,0.0,0.7,1.2
+central pattern generator,2,0.0,2.4,0.0,0.0,0.0
+capstone,2,0.0,0.0,0.7,0.7,0.0
+temperature control,2,2.0,1.2,0.0,0.0,0.0
+nsdl,2,0.0,2.4,0.0,0.0,0.0
+limbic system,2,0.0,2.4,0.0,0.0,0.0
+extracellular,2,0.0,0.0,0.0,1.3,0.0
+online education,2,0.0,0.0,0.0,0.7,1.2
+object recognition,2,0.0,1.2,0.0,0.0,1.2
+toxicology,2,0.0,1.2,0.0,0.0,1.2
+brain initiative,2,0.0,0.0,0.7,0.7,0.0
+group work,2,0.0,0.0,0.0,1.3,0.0
+teaching neuroanatomy,2,0.0,0.0,1.5,0.0,0.0
+research internship,2,0.0,0.0,0.7,0.7,0.0
+film,2,2.0,0.0,0.7,0.0,0.0
+learning,2,0.0,0.0,0.7,0.7,0.0
+blended,2,0.0,0.0,1.5,0.0,0.0
+blended learning,2,0.0,0.0,0.0,0.7,1.2
+growth cone,2,0.0,0.0,1.5,0.0,0.0
+mauthner cells,2,0.0,0.0,0.7,0.0,1.2
+biology,2,0.0,0.0,0.7,0.7,0.0
 event-related potentials (erps),2,0.0,0.0,0.7,0.0,1.2
+learning and memory,2,0.0,1.2,0.0,0.7,0.0
 learning community,2,0.0,0.0,1.5,0.0,0.0
 circadian rhythm,2,2.0,0.0,0.0,0.0,1.2
-teaching neuroanatomy,2,0.0,0.0,1.5,0.0,0.0
-undergraduate learning,2,0.0,0.0,0.7,0.7,0.0
-power spectrum analysis,1,0.0,0.0,0.0,0.0,1.2
-purkinje neuron,1,0.0,0.0,0.0,0.7,0.0
-puzzles,1,0.0,0.0,0.0,0.0,1.2
-psychologists,1,2.0,0.0,0.0,0.0,0.0
-proprioception,1,0.0,0.0,0.0,0.7,0.0
-psychoactive substance act,1,0.0,0.0,0.7,0.0,0.0
-q10,1,2.0,0.0,0.0,0.0,0.0
-protein assays,1,2.0,0.0,0.0,0.0,0.0
-power amplification,1,0.0,0.0,0.0,0.7,0.0
-protégé,1,0.0,0.0,0.7,0.0,0.0
-psychoactive substance bill,1,0.0,0.0,0.7,0.0,0.0
-purpose,1,0.0,0.0,0.0,0.7,0.0
-pseudoephedrine,1,0.0,0.0,0.0,0.7,0.0
-posture,1,0.0,0.0,0.0,0.7,0.0
-psps,1,0.0,0.0,0.7,0.0,0.0
-qtl analysis,1,0.0,1.2,0.0,0.0,0.0
-postural control,1,0.0,0.0,0.7,0.0,0.0
-professionalism,1,0.0,0.0,0.7,0.0,0.0
-project lab,1,0.0,0.0,0.0,0.7,0.0
-professional,1,0.0,1.2,0.0,0.0,0.0
-processing,1,0.0,0.0,0.7,0.0,0.0
-process oriented guided inquiry learning (pogil),1,0.0,0.0,0.0,0.0,1.2
-postdoctoral fellowship,1,0.0,1.2,0.0,0.0,0.0
+project-based learning (pbl),2,0.0,0.0,0.0,1.3,0.0
+brain,2,0.0,1.2,0.0,0.0,1.2
+major,2,0.0,1.2,0.7,0.0,0.0
+brain awareness week,2,0.0,0.0,0.0,0.7,1.2
+brain awareness week (baw),2,0.0,2.4,0.0,0.0,0.0
+excitability,2,2.0,0.0,0.7,0.0,0.0
+heating,2,2.0,1.2,0.0,0.0,0.0
 proceptivity,1,0.0,1.2,0.0,0.0,0.0
-primary neuroscience literature,1,0.0,0.0,0.0,0.0,1.2
-primary scientific literature,1,0.0,0.0,0.0,0.7,0.0
-psychosocial variables,1,0.0,0.0,0.0,0.0,1.2
-priorities,1,0.0,0.0,0.7,0.0,0.0
-prism adaptation,1,0.0,1.2,0.0,0.0,0.0
-procaine,1,0.0,0.0,0.0,0.7,0.0
-psychosocial stressors,1,0.0,0.0,0.0,0.0,1.2
-probe design,1,0.0,1.2,0.0,0.0,0.0
-problem based learning,1,0.0,0.0,0.0,0.7,0.0
+qtl analysis,1,0.0,1.2,0.0,0.0,0.0
+q10,1,2.0,0.0,0.0,0.0,0.0
 proboscis extension response,1,0.0,0.0,0.0,0.7,0.0
-psychophysiology,1,0.0,0.0,0.0,0.7,0.0
+power spectrum analysis,1,0.0,0.0,0.0,0.0,1.2
+psychosocial variables,1,0.0,0.0,0.0,0.0,1.2
+puzzles,1,0.0,0.0,0.0,0.0,1.2
+purkinje neuron,1,0.0,0.0,0.0,0.7,0.0
+power amplification,1,0.0,0.0,0.0,0.7,0.0
+purpose,1,0.0,0.0,0.0,0.7,0.0
+public engagement,1,0.0,0.0,0.7,0.0,0.0
+public health,1,0.0,0.0,0.0,0.7,0.0
 problem-based learning (pbl),1,0.0,0.0,0.7,0.0,0.0
-problem solving,1,0.0,0.0,0.0,0.7,0.0
-psychoneuroimmunology (pni),1,0.0,0.0,0.0,0.0,1.2
-professional societies,1,0.0,0.0,0.7,0.0,0.0
-project kaleidoscope,1,0.0,0.0,0.7,0.0,0.0
-professional training year,1,0.0,1.2,0.0,0.0,0.0
+public policy,1,0.0,0.0,0.7,0.0,0.0
+posture,1,0.0,0.0,0.0,0.7,0.0
+process oriented guided inquiry learning (pogil),1,0.0,0.0,0.0,0.0,1.2
+procaine,1,0.0,0.0,0.0,0.7,0.0
+postural control,1,0.0,0.0,0.7,0.0,0.0
+postdoctoral fellowship,1,0.0,1.2,0.0,0.0,0.0
+prefrontal cortex,1,0.0,0.0,0.0,0.0,1.2
+processing,1,0.0,0.0,0.7,0.0,0.0
+psychologists,1,2.0,0.0,0.0,0.0,0.0
 proinflammatory cytokines,1,0.0,0.0,0.0,0.0,1.2
+project kaleidoscope,1,0.0,0.0,0.7,0.0,0.0
+project lab,1,0.0,0.0,0.0,0.7,0.0
+psychoneuroimmunology (pni),1,0.0,0.0,0.0,0.0,1.2
+proprioception,1,0.0,0.0,0.0,0.7,0.0
+probe design,1,0.0,1.2,0.0,0.0,0.0
+protein assays,1,2.0,0.0,0.0,0.0,0.0
+protégé,1,0.0,0.0,0.7,0.0,0.0
+primary cell culture,1,0.0,0.0,0.0,0.7,0.0
+primary neuroscience literature,1,0.0,0.0,0.0,0.0,1.2
+psychoactive substance bill,1,0.0,0.0,0.7,0.0,0.0
+pseudoephedrine,1,0.0,0.0,0.0,0.7,0.0
+primary scientific literature,1,0.0,0.0,0.0,0.7,0.0
+psps,1,0.0,0.0,0.7,0.0,0.0
+prism adaptation,1,0.0,1.2,0.0,0.0,0.0
+priorities,1,0.0,0.0,0.7,0.0,0.0
+problem based learning,1,0.0,0.0,0.0,0.7,0.0
+primary and secondary literature,1,0.0,0.0,0.0,0.7,0.0
+professional,1,0.0,1.2,0.0,0.0,0.0
+psychophysiology,1,0.0,0.0,0.0,0.7,0.0
+professional societies,1,0.0,0.0,0.7,0.0,0.0
+psychosocial stressors,1,0.0,0.0,0.0,0.0,1.2
+professional training year,1,0.0,1.2,0.0,0.0,0.0
 powerpoint,1,0.0,0.0,0.7,0.0,0.0
 pre-synaptic inhibition,1,0.0,0.0,0.0,0.0,1.2
 predominantly undergraduate institution,1,0.0,1.2,0.0,0.0,0.0
-prefrontal cortex,1,0.0,0.0,0.0,0.0,1.2
-preschool,1,0.0,0.0,0.0,0.7,0.0
-program review,1,0.0,0.0,0.7,0.0,0.0
-public policy,1,0.0,0.0,0.7,0.0,0.0
-presynaptic bouton,1,0.0,0.0,0.0,0.7,0.0
-program evaluation,1,0.0,0.0,0.0,0.0,1.2
-pretzel syndrome,1,0.0,0.0,0.0,0.7,0.0
-public health,1,0.0,0.0,0.0,0.7,0.0
+professionalism,1,0.0,0.0,0.7,0.0,0.0
+psychoactive substance act,1,0.0,0.0,0.7,0.0,0.0
 primary afferent depolarization,1,0.0,0.0,0.0,0.0,1.2
-primary and secondary literature,1,0.0,0.0,0.0,0.7,0.0
-primary cell culture,1,0.0,0.0,0.0,0.7,0.0
+problem solving,1,0.0,0.0,0.0,0.7,0.0
 progesterone,1,0.0,1.2,0.0,0.0,0.0
-public engagement,1,0.0,0.0,0.7,0.0,0.0
+preschool,1,0.0,0.0,0.0,0.7,0.0
+program evaluation,1,0.0,0.0,0.0,0.0,1.2
+presynaptic bouton,1,0.0,0.0,0.0,0.7,0.0
+program review,1,0.0,0.0,0.7,0.0,0.0
+pretzel syndrome,1,0.0,0.0,0.0,0.7,0.0
 (cure),1,0.0,0.0,0.0,0.0,1.2
 oscilloscope,1,0.0,0.0,0.0,0.7,0.0
 positron emission tomography (pet),1,0.0,0.0,0.7,0.0,0.0
