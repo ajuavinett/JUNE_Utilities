@@ -5,11 +5,7 @@ move it to **Decisions** with the date and the answer.
 
 ## Open questions
 
-5. **Media reviews not indexed in PubMed:** most have no abstract. Include them
-   in the topic analysis using the title only, or leave them out?
-   - *Waiting on:* Ashley to ask Elaine, Erik, and Bill why media reviews
-     aren't indexed in PubMed.
-9. **Name the topic groups.** `04_topics.ipynb` found 15 groups of articles
+**Name the topic groups.** `04_topics.ipynb` found 15 groups of articles
    by their words; the computer doesn't name them. Read the top words and
    example titles in `data/topic_words.csv` and agree on a short name for
    each, then put them in `TOPIC_NAMES` in the notebook's Settings cell.
@@ -18,12 +14,15 @@ move it to **Decisions** with the date and the answer.
 10. **Are these the right eras?** Notebook 04 uses five-volume eras
     (1–5, 6–10, 11–15, 16–20, 21–24). Other options: by decade, or around
     events such as the move to Scholastica or the pandemic.
-11. **Automatic groups, or a hand-built list of topics?** The automatic
-    groups are a good way to *discover* themes. For the manuscript, we could
-    instead define our own list of topics (e.g., "active learning",
-    "CUREs", "DEI") with the words that signal each, and count articles
-    per topic. That's easier to explain and defend, but takes more of our
-    time.
+    - yes this is fine
+11. **Check the topics in `topic_checks.csv`** (notebook 07, the
+    hand-built topic list). One row per article (508), with the topics the
+    word search suggests. Leave `topics` empty to accept the suggestion, or
+    write the right topics (separated by "; ") or `none`, and write `yes` in
+    `checked`. Also review the 18 topic definitions and word lists in
+    `TOPICS` in the notebook's Settings. Broad topics to watch: Curriculum &
+    program design (129 articles), Active learning (112), and Sensation &
+    perception ("sensory" alone matches 39).
 12. **Check the CUREs in `cure_themes.csv`.** Notebook 06 found 24 candidate
     articles; 17 count as CUREs for now (named in their title or keywords).
     For each row, fill in `is_cure` (yes/no), correct the suggested SfN
@@ -55,7 +54,10 @@ move it to **Decisions** with the date and the answer.
     the search missed.
 
 ## Notes for the journal (not decisions for us)
-
+- **Media reviews not indexed in PubMed:** most have no abstract. Include them
+   in the topic analysis using the title only, or leave them out?
+   - *Waiting on:* Ashley to ask Elaine, Erik, and Bill why media reviews
+     aren't indexed in PubMed.
 - **Wrong DOIs in PubMed** (the publisher can ask NLM to correct them):
   - 22(1) "A Versatile Semester-Long Course-Based Undergraduate Research
     Experience…" is listed with 10.59390/XZQL5300; correct is 10.59390/MEDI5423
@@ -79,8 +81,11 @@ move it to **Decisions** with the date and the answer.
   22(2) 2023 Western Washington. 22(3) is *not* a workshop issue.
   Workshop status is tagged per article, since an issue may also contain
   regular articles.
-- **2026-09-25 — Workshop articles are counted separately** from the
-  per-volume counts, and **included** in the topic analysis.
+- **2026-09-25, revised 2026-10-04 — Workshop items are counted separately
+  only to show how many workshop issues and items JUNE has published**
+  (Figure 2, table 2). Otherwise they're **included in every count**:
+  items per volume (Figure 1), citations, top-cited lists, topics,
+  organisms, computational labs, and CUREs.
 - **2026-09-25 — Two citation counts per article:** total citations, and
   citations in the first 5 years after publication. Articles younger than
   5 years get a blank 5-year count, not a low one.
@@ -99,7 +104,7 @@ move it to **Decisions** with the date and the answer.
   (articles, editorials, media reviews, case studies, and technical papers;
   interviews are filed as editorials), with the number of each type
   reported as a breakdown.
-  Workshop items are still counted separately (see 2026-09-25). In
+  Workshop items are included, each under its own type (see 2026-09-25). In
   `05_figures.ipynb`: `COUNT_ITEM_TYPES` lists all types. (Was question 3.)
 - **2026-10-04 — Per-volume counts include FUN workshop items**, each
   counted under its own item type (article, editorial, review). This
@@ -131,3 +136,9 @@ move it to **Decisions** with the date and the answer.
   (e.g., fMRI or PET datasets), courses that only mention a technique, and
   students testing other people (e.g., middle schoolers in outreach).
   Candidates are confirmed by hand in `organism_checks.csv`.
+- **2026-10-04 — Topics: use a hand-built list** (`07_topic_list.ipynb`)
+  rather than only the automatic groups from Step 4. 18 topics, each with
+  a definition and word list; "general pedagogy" is split into active
+  learning, curriculum & program design, and assessment. An article can
+  have several topics, and a topic counts if its words are in the title,
+  keywords, or abstract. (Was question 11.)
