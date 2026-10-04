@@ -4,3 +4,6 @@ cache/
 
 # Keep the step-to-step CSVs in the repo (overrides the global *.csv ignore)
 !*.csv
+
+# Article PDFs downloaded by notebook 06 (kept locally; too big for GitHub)
+pdfs/

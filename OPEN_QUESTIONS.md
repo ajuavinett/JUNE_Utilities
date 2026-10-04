@@ -24,6 +24,31 @@ move it to **Decisions** with the date and the answer.
     "CUREs", "DEI") with the words that signal each, and count articles
     per topic. That's easier to explain and defend, but takes more of our
     time.
+12. **Check the CUREs in `cure_themes.csv`.** Notebook 06 found 24 candidate
+    articles; 17 count as CUREs for now (named in their title or keywords).
+    For each row, fill in `is_cure` (yes/no), correct the suggested SfN
+    `themes`, and mark `checked` = yes. Some named ones may not be CUREs
+    themselves (e.g., 21(1) notes on the 2022 SfN teaching workshop, 22(2)
+    microPublication Biology). Add rows for CUREs the search missed,
+    especially course-based research described before the term "CURE"
+    caught on (~2015).
+13. **Which SfN theme list?** Notebook 06 uses SfN's current list (2025:
+    11 themes, A–K). The list used through 2024 had 10 themes (A–J),
+    without separate aging/degeneration and neuroimmunity/injury themes.
+14. **Check the word lists in notebook 06.** Organisms, kinds of
+    computational labs, and SfN themes are each found by a list of words
+    (Settings cell). Skim `data/organism_articles.csv` and
+    `data/computational_articles.csv` for articles that were matched
+    wrongly or missed.
+15. **Check the "Students as their own subjects" candidates in
+    `self_experiments.csv`.** Notebook 06 lists 88 articles that name a
+    self-measurement method (EEG, EMG, heart rate, reaction time, taste,
+    cortisol, …) often enough; 58 are suggested "yes". The suggestions catch
+    nearly every real self-experiment lab but include some that aren't
+    (e.g., outreach programs, courses that only mention EEG), so the "yes"
+    rows matter most. For each row, write `yes`/`no` in `self_experiment` and
+    `yes` in `checked`; the `evidence` column shows the phrase that triggered
+    the suggestion.
 
 ## Notes for the journal (not decisions for us)
 
@@ -84,3 +109,16 @@ move it to **Decisions** with the date and the answer.
 - **2026-10-02 — Report OpenAlex citation counts.** NIH iCite stays in
   `data/june_citations.csv` as a behind-the-scenes cross-check only; the
   figures and tables use OpenAlex. (Was question 8.)
+- **2026-10-03 — Model organisms: one yes/no per organism per article —
+  does the article include an activity with it?** Anything counts: live
+  animals or behavior, dissections and tissue, data or images from the
+  organism, humans as participants, and plants and algae. Organisms are
+  searched in each article's full text (PDF, reference list removed), not
+  just the abstract. PDFs are saved in `pdfs/` on Ashley's computer, not on
+  GitHub.
+- **2026-10-04 — Humans count only as "Students as their own subjects":**
+  lab activities where students experiment on themselves or on each other
+  (lab partners, classmates). Not counted: analyzing existing human data
+  (e.g., fMRI or PET datasets), courses that only mention a technique, and
+  students testing other people (e.g., middle schoolers in outreach).
+  Candidates are confirmed by hand in `self_experiments.csv`.
