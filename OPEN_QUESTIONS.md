@@ -97,6 +97,11 @@ move it to **Decisions** with the date and the answer.
   reported as a breakdown.
   Workshop items are still counted separately (see 2026-09-25). In
   `05_figures.ipynb`: `COUNT_ITEM_TYPES` lists all types. (Was question 3.)
+- **2026-10-04 — Per-volume counts include FUN workshop items**, each
+  counted under its own item type (article, editorial, review). This
+  replaces "counted separately" (2026-09-25) for Figure 1 and Table 1;
+  Table 1 also lists how many items per volume are workshop items, and
+  workshop totals stay in Figure 2.
 - **2026-10-02 — Workshop articles can appear in the top-cited lists**,
   with no separate treatment. In `05_figures.ipynb`:
   `INCLUDE_WORKSHOP_IN_TOP_CITED = True`. (Was question 4.)
