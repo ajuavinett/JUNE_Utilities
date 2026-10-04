@@ -5,53 +5,35 @@ move it to **Decisions** with the date and the answer.
 
 ## Open questions
 
-**Name the topic groups.** `04_topics.ipynb` found 15 groups of articles
-   by their words; the computer doesn't name them. Read the top words and
-   example titles in `data/topic_words.csv` and agree on a short name for
-   each, then put them in `TOPIC_NAMES` in the notebook's Settings cell.
-   Topic 10 ("science, interdisciplinary, curriculum…") looks like a
-   catch-all; decide whether to report it as "general/curriculum".
-10. **Are these the right eras?** Notebook 04 uses five-volume eras
-    (1–5, 6–10, 11–15, 16–20, 21–24). Other options: by decade, or around
-    events such as the move to Scholastica or the pandemic.
-    - yes this is fine
-11. **Check the topics in `topic_checks.csv`** (notebook 07, the
-    hand-built topic list). One row per article (508), with the topics the
-    word search suggests. Leave `topics` empty to accept the suggestion, or
-    write the right topics (separated by "; ") or `none`, and write `yes` in
-    `checked`. Also review the 18 topic definitions and word lists in
-    `TOPICS` in the notebook's Settings. Broad topics to watch: Curriculum &
-    program design (129 articles), Active learning (112), and Sensation &
-    perception ("sensory" alone matches 39).
-12. **Check the CUREs in `cure_themes.csv`.** Notebook 06 found 24 candidate
-    articles; 17 count as CUREs for now (named in their title or keywords).
-    For each row, fill in `is_cure` (yes/no), correct the suggested SfN
-    `themes`, and mark `checked` = yes. Some named ones may not be CUREs
-    themselves (e.g., 21(1) notes on the 2022 SfN teaching workshop, 22(2)
-    microPublication Biology). Add rows for CUREs the search missed,
-    especially course-based research described before the term "CURE"
-    caught on (~2015).
-13. **Which SfN theme list?** Notebook 06 uses SfN's current list (2025:
-    11 themes, A–K). The list used through 2024 had 10 themes (A–J),
-    without separate aging/degeneration and neuroimmunity/injury themes.
-14. **Check the organisms in `organism_checks.csv`.** One row per article
-    that names any organism (353 articles; 214 with suggested organisms).
-    Correct the `organisms` column where the suggestion is wrong (delete or
-    add names, separated by "; "), and write `yes` in `checked`. The
-    suggestions for "Students as their own subjects" need the most care:
-    they catch nearly every real self-experiment lab but include some that
-    aren't (outreach programs, courses that only mention EEG); the
-    `evidence` column shows the phrase behind each one. Short articles that
-    name their organism only once or twice are missed (e.g., the 10(1)
-    Golgi-Cox mouse lab, already corrected).
-15. **Check the computational labs in `computational_checks.csv`.** One row
-    per article the word search finds (101 articles; 71 featured, which are
-    the ones in Figure 6 for now). Correct the `kinds` column (delete or add
-    kinds, separated by "; "; empty = not a computational lab), and write
-    `yes` in `checked`. Some first matches look doubtful, e.g. "Programming &
-    coding" first in a 4(2) frog auditory electrophysiology lab, and "Open
-    data & databases" first in a 5(1) fMRI exercise. Add rows for articles
-    the search missed.
+16. **Check `hand_checks.csv`** — one file, one row per article (508), for
+    every hand check in notebooks 06 and 07. For each question there's a
+    `(suggested)` column from the word search and an answer column: leave the
+    answer empty to accept the suggestion, or write what's right (separated
+    by "; ") or `none`. Write `yes` in `checked` once you've checked the
+    whole row. What to watch for:
+    - **Organisms** (`organisms`): the "Students as their own subjects"
+      suggestions need the most care: they catch nearly every real
+      self-experiment lab but include some that aren't (outreach programs,
+      courses that only mention EEG); `organisms: self-experiment evidence`
+      shows the phrase behind each. Short articles that name their organism
+      only once or twice are missed (e.g., the 10(1) Golgi-Cox mouse lab,
+      already corrected).
+    - **Computational labs** (`computational`): 71 articles suggested. Some
+      first matches look doubtful, e.g. "Programming & coding" first in a
+      4(2) frog auditory electrophysiology lab, and "Open data & databases"
+      first in a 5(1) fMRI exercise. `computational: in abstract only`
+      lists kinds that count only if you add them.
+    - **CUREs** (`CURE`, `CURE themes`): 24 candidates; the 17 named in
+      their title or keywords count for now (`yes`), abstract-only ones
+      don't (`maybe`). Write `yes`/`no` to decide, and correct the SfN theme
+      letters. Some named ones may not be CUREs themselves (e.g., 21(1)
+      notes on the 2022 SfN teaching workshop, 22(2) microPublication
+      Biology). Write `yes` for CUREs the search missed, especially
+      course-based research described before the term caught on (~2015).
+    - **Topics** (`topics`): also review the 18 topic definitions and word
+      lists in `TOPICS` in notebook 07's Settings. Broad topics to watch:
+      Curriculum & program design (129 articles), Active learning (112), and
+      Sensation & perception ("sensory" alone matches 39).
 
 ## Notes for the journal (not decisions for us)
 - **Media reviews not indexed in PubMed:** most have no abstract. Include them
@@ -135,10 +117,17 @@ move it to **Decisions** with the date and the answer.
   (lab partners, classmates). Not counted: analyzing existing human data
   (e.g., fMRI or PET datasets), courses that only mention a technique, and
   students testing other people (e.g., middle schoolers in outreach).
-  Candidates are confirmed by hand in `organism_checks.csv`.
+  Candidates are confirmed by hand in `hand_checks.csv`.
 - **2026-10-04 — Topics: use a hand-built list** (`07_topic_list.ipynb`)
   rather than only the automatic groups from Step 4. 18 topics, each with
   a definition and word list; "general pedagogy" is split into active
   learning, curriculum & program design, and assessment. An article can
   have several topics, and a topic counts if its words are in the title,
   keywords, or abstract. (Was question 11.)
+- **2026-10-04 — The automatic topic groups (Step 4) are exploratory only.**
+  We won't name them; the manuscript will most likely use our own topic
+  list (Step 7). (Was question 9.)
+- **2026-10-04 — Keep the five-volume eras** (1–5, 6–10, 11–15, 16–20,
+  21–24) for all by-era results. (Was question 10.)
+- **2026-10-04 — Use SfN's current theme list** (2025: 11 themes, A–K)
+  for CURE themes. (Was question 13.)
