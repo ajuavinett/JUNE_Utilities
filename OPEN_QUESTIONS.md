@@ -35,20 +35,24 @@ move it to **Decisions** with the date and the answer.
 13. **Which SfN theme list?** Notebook 06 uses SfN's current list (2025:
     11 themes, A–K). The list used through 2024 had 10 themes (A–J),
     without separate aging/degeneration and neuroimmunity/injury themes.
-14. **Check the word lists in notebook 06.** Organisms, kinds of
-    computational labs, and SfN themes are each found by a list of words
-    (Settings cell). Skim `data/organism_articles.csv` and
-    `data/computational_articles.csv` for articles that were matched
-    wrongly or missed.
-15. **Check the "Students as their own subjects" candidates in
-    `self_experiments.csv`.** Notebook 06 lists 88 articles that name a
-    self-measurement method (EEG, EMG, heart rate, reaction time, taste,
-    cortisol, …) often enough; 58 are suggested "yes". The suggestions catch
-    nearly every real self-experiment lab but include some that aren't
-    (e.g., outreach programs, courses that only mention EEG), so the "yes"
-    rows matter most. For each row, write `yes`/`no` in `self_experiment` and
-    `yes` in `checked`; the `evidence` column shows the phrase that triggered
-    the suggestion.
+14. **Check the organisms in `organism_checks.csv`.** One row per article
+    that names any organism (353 articles; 214 with suggested organisms).
+    Correct the `organisms` column where the suggestion is wrong (delete or
+    add names, separated by "; "), and write `yes` in `checked`. The
+    suggestions for "Students as their own subjects" need the most care:
+    they catch nearly every real self-experiment lab but include some that
+    aren't (outreach programs, courses that only mention EEG); the
+    `evidence` column shows the phrase behind each one. Short articles that
+    name their organism only once or twice are missed (e.g., the 10(1)
+    Golgi-Cox mouse lab, already corrected).
+15. **Check the computational labs in `computational_checks.csv`.** One row
+    per article the word search finds (101 articles; 71 featured, which are
+    the ones in Figure 6 for now). Correct the `kinds` column (delete or add
+    kinds, separated by "; "; empty = not a computational lab), and write
+    `yes` in `checked`. Some first matches look doubtful, e.g. "Programming &
+    coding" first in a 4(2) frog auditory electrophysiology lab, and "Open
+    data & databases" first in a 5(1) fMRI exercise. Add rows for articles
+    the search missed.
 
 ## Notes for the journal (not decisions for us)
 
@@ -126,4 +130,4 @@ move it to **Decisions** with the date and the answer.
   (lab partners, classmates). Not counted: analyzing existing human data
   (e.g., fMRI or PET datasets), courses that only mention a technique, and
   students testing other people (e.g., middle schoolers in outreach).
-  Candidates are confirmed by hand in `self_experiments.csv`.
+  Candidates are confirmed by hand in `organism_checks.csv`.
