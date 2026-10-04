@@ -1,0 +1,41 @@
+# JUNE retrospective: house style for all figures.
+# Load it in a notebook with  plt.style.use("june.mplstyle")
+
+## Font: Arial. Colab has no Arial, so it falls back to Liberation Sans (same letter widths)
+font.family:        sans-serif
+font.sans-serif:    Arial, Helvetica, Liberation Sans, DejaVu Sans
+font.size:          9
+axes.titlesize:     10
+axes.titleweight:   bold
+axes.titlelocation: left
+axes.labelsize:     9
+xtick.labelsize:    8
+ytick.labelsize:    8
+legend.fontsize:    8
+
+## Okabe–Ito colors: safe for all common types of color blindness
+axes.prop_cycle: cycler(color=["0072B2", "E69F00", "009E73", "CC79A7", "56B4E9", "D55E00", "F0E442", "000000"])
+
+## Text and axes: black text, gray labels, light gridlines
+text.color:        0B0B0B
+axes.labelcolor:   404040
+xtick.color:       404040
+ytick.color:       404040
+axes.edgecolor:    B0B0B0
+axes.linewidth:    0.8
+axes.spines.top:   False
+axes.spines.right: False
+axes.grid:         True
+axes.grid.axis:    y
+axes.axisbelow:    True
+grid.color:        E4E4E4
+grid.linewidth:    0.6
+legend.frameon:    False
+
+## Output: white background, 300 dpi, editable text in PDFs
+figure.facecolor: white
+axes.facecolor:   white
+savefig.dpi:      300
+savefig.bbox:     tight
+pdf.fonttype:     42
+ps.fonttype:      42
